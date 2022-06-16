@@ -1,3 +1,11 @@
+# Copyright (c) 2022, NVIDIA CORPORATION.  All rights reserved.
+#
+# NVIDIA CORPORATION and its licensors retain all intellectual property
+# and proprietary rights in and to this software, related documentation
+# and any modifications thereto.  Any use, reproduction, disclosure or
+# distribution of this software and related documentation without an express
+# license agreement from NVIDIA CORPORATION is strictly prohibited.
+
 import os
 import torch
 import torch.nn as nn
@@ -36,9 +44,6 @@ def parse_args():
     parser.add_argument(
         '--max_iter', type=int, default=5000,
         help='maximum iteration of training')
-    parser.add_argument(
-        '--z_var', type=float, default=1.0,
-        help='Z variation in sampling')
     parser.add_argument(
         '--lr', type=float, default=0.001,
         help='learning rate')
@@ -101,7 +106,7 @@ def main(args):
     os.makedirs(ckpt_dir, exist_ok=True)
     writer = SummaryWriter(log_dir=os.path.join(ckpt_dir, 'logs'))
     os.makedirs(os.path.join(ckpt_dir, 'training'), exist_ok=True)
-    os.makedirs(os.path.join(ckpt_dir, 'samples'), exist_ok=True)
+    # os.makedirs(os.path.join(ckpt_dir, 'samples'), exist_ok=True)
 
     # build dataset
     dataset = ImagenetDataset(args.dataset_dir)

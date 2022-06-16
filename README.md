@@ -64,6 +64,23 @@ data
 │   |   │   n01440764
 │   |   │   ...
 ```
+
+## Training
+After the dataset preparation, we now can train BigDatasetGAN to synthesize dataset.
+
+Run the following
+```
+python train.py --gan_ckpt ./pretrain/biggan-512.pth \
+                --dataset_dir ./data/ \
+                --save_dir ./logs/
+```
+
+You can monitor the training progress in tensorboard, as well as the training predictions in logs dir.
+
+By default, the training runs 5k iteration with a batch size of 4, you can adjust it for the best capacity.
+
+## Sampling dataset
+
 ## License 
 For any code dependency related to BigGAN, the license is under the MIT License, see https://github.com/ajbrock/BigGAN-PyTorch/blob/master/LICENSE.
 
