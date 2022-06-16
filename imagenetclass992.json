@@ -1,0 +1,4962 @@
+{
+    "background": {
+        "seg_id": 0,
+        "object_name": "background",
+        "imagenet_id": null
+    },
+    "n01440764": {
+        "seg_id": 1,
+        "object_name": "tench, tinca tinca",
+        "imagenet_id": 0
+    },
+    "n01443537": {
+        "seg_id": 2,
+        "object_name": "goldfish, carassius auratus",
+        "imagenet_id": 1
+    },
+    "n01484850": {
+        "seg_id": 3,
+        "object_name": "great white shark, white shark, man-eater, man-eating shark, carcharodon carcharias",
+        "imagenet_id": 2
+    },
+    "n01491361": {
+        "seg_id": 4,
+        "object_name": "tiger shark, galeocerdo cuvieri",
+        "imagenet_id": 3
+    },
+    "n01494475": {
+        "seg_id": 5,
+        "object_name": "hammerhead, hammerhead shark",
+        "imagenet_id": 4
+    },
+    "n01496331": {
+        "seg_id": 6,
+        "object_name": "electric ray, crampfish, numbfish, torpedo",
+        "imagenet_id": 5
+    },
+    "n01498041": {
+        "seg_id": 7,
+        "object_name": "stingray",
+        "imagenet_id": 6
+    },
+    "n01514668": {
+        "seg_id": 8,
+        "object_name": "cock",
+        "imagenet_id": 7
+    },
+    "n01514859": {
+        "seg_id": 9,
+        "object_name": "hen, biddy",
+        "imagenet_id": 8
+    },
+    "n01518878": {
+        "seg_id": 10,
+        "object_name": "ostrich, struthio camelus",
+        "imagenet_id": 9
+    },
+    "n01530575": {
+        "seg_id": 11,
+        "object_name": "brambling, fringilla montifringilla",
+        "imagenet_id": 10
+    },
+    "n01531178": {
+        "seg_id": 12,
+        "object_name": "goldfinch, carduelis carduelis",
+        "imagenet_id": 11
+    },
+    "n01532829": {
+        "seg_id": 13,
+        "object_name": "house finch, linnet, carpodacus mexicanus",
+        "imagenet_id": 12
+    },
+    "n01534433": {
+        "seg_id": 14,
+        "object_name": "junco, snowbird",
+        "imagenet_id": 13
+    },
+    "n01537544": {
+        "seg_id": 15,
+        "object_name": "indigo bunting, indigo finch, indigo bird, passerina cyanea",
+        "imagenet_id": 14
+    },
+    "n01558993": {
+        "seg_id": 16,
+        "object_name": "robin, american robin, turdus migratorius",
+        "imagenet_id": 15
+    },
+    "n01560419": {
+        "seg_id": 17,
+        "object_name": "bulbul",
+        "imagenet_id": 16
+    },
+    "n01580077": {
+        "seg_id": 18,
+        "object_name": "jay",
+        "imagenet_id": 17
+    },
+    "n01582220": {
+        "seg_id": 19,
+        "object_name": "magpie",
+        "imagenet_id": 18
+    },
+    "n01592084": {
+        "seg_id": 20,
+        "object_name": "chickadee",
+        "imagenet_id": 19
+    },
+    "n01601694": {
+        "seg_id": 21,
+        "object_name": "water ouzel, dipper",
+        "imagenet_id": 20
+    },
+    "n01608432": {
+        "seg_id": 22,
+        "object_name": "kite",
+        "imagenet_id": 21
+    },
+    "n01614925": {
+        "seg_id": 23,
+        "object_name": "kite",
+        "imagenet_id": 22
+    },
+    "n01616318": {
+        "seg_id": 24,
+        "object_name": "vulture",
+        "imagenet_id": 23
+    },
+    "n01622779": {
+        "seg_id": 25,
+        "object_name": "great grey owl, great gray owl, strix nebulosa",
+        "imagenet_id": 24
+    },
+    "n01629819": {
+        "seg_id": 26,
+        "object_name": "european fire salamander, salamandra salamandra",
+        "imagenet_id": 25
+    },
+    "n01630670": {
+        "seg_id": 27,
+        "object_name": "common newt, triturus vulgaris",
+        "imagenet_id": 26
+    },
+    "n01631663": {
+        "seg_id": 28,
+        "object_name": "eft",
+        "imagenet_id": 27
+    },
+    "n01632458": {
+        "seg_id": 29,
+        "object_name": "spotted salamander, ambystoma maculatum",
+        "imagenet_id": 28
+    },
+    "n01632777": {
+        "seg_id": 30,
+        "object_name": "axolotl, mud puppy, ambystoma mexicanum",
+        "imagenet_id": 29
+    },
+    "n01641577": {
+        "seg_id": 31,
+        "object_name": "bullfrog, rana catesbeiana",
+        "imagenet_id": 30
+    },
+    "n01644373": {
+        "seg_id": 32,
+        "object_name": "tree frog, tree-frog",
+        "imagenet_id": 31
+    },
+    "n01644900": {
+        "seg_id": 33,
+        "object_name": "tailed frog, bell toad, ribbed toad, tailed toad, ascaphus trui",
+        "imagenet_id": 32
+    },
+    "n01664065": {
+        "seg_id": 34,
+        "object_name": "loggerhead, loggerhead turtle, caretta caretta",
+        "imagenet_id": 33
+    },
+    "n01665541": {
+        "seg_id": 35,
+        "object_name": "leatherback turtle, leatherback, leathery turtle, dermochelys coriacea",
+        "imagenet_id": 34
+    },
+    "n01667114": {
+        "seg_id": 36,
+        "object_name": "mud turtle",
+        "imagenet_id": 35
+    },
+    "n01667778": {
+        "seg_id": 37,
+        "object_name": "terrapin",
+        "imagenet_id": 36
+    },
+    "n01669191": {
+        "seg_id": 38,
+        "object_name": "box turtle, box tortoise",
+        "imagenet_id": 37
+    },
+    "n01675722": {
+        "seg_id": 39,
+        "object_name": "banded gecko",
+        "imagenet_id": 38
+    },
+    "n01677366": {
+        "seg_id": 40,
+        "object_name": "common iguana, iguana, iguana iguana",
+        "imagenet_id": 39
+    },
+    "n01682714": {
+        "seg_id": 41,
+        "object_name": "american chameleon, anole, anolis carolinensis",
+        "imagenet_id": 40
+    },
+    "n01685808": {
+        "seg_id": 42,
+        "object_name": "whiptail, whiptail lizard",
+        "imagenet_id": 41
+    },
+    "n01687978": {
+        "seg_id": 43,
+        "object_name": "agama",
+        "imagenet_id": 42
+    },
+    "n01688243": {
+        "seg_id": 44,
+        "object_name": "frilled lizard, chlamydosaurus kingi",
+        "imagenet_id": 43
+    },
+    "n01692333": {
+        "seg_id": 45,
+        "object_name": "gila monster, heloderma suspectum",
+        "imagenet_id": 45
+    },
+    "n01693334": {
+        "seg_id": 46,
+        "object_name": "green lizard, lacerta viridis",
+        "imagenet_id": 46
+    },
+    "n01694178": {
+        "seg_id": 47,
+        "object_name": "african chameleon, chamaeleo chamaeleon",
+        "imagenet_id": 47
+    },
+    "n01695060": {
+        "seg_id": 48,
+        "object_name": "komodo dragon, komodo lizard, dragon lizard, giant lizard, varanus komodoensis",
+        "imagenet_id": 48
+    },
+    "n01698640": {
+        "seg_id": 49,
+        "object_name": "american alligator, alligator mississipiensis",
+        "imagenet_id": 50
+    },
+    "n01704323": {
+        "seg_id": 50,
+        "object_name": "triceratops",
+        "imagenet_id": 51
+    },
+    "n01728572": {
+        "seg_id": 51,
+        "object_name": "thunder snake, worm snake, carphophis amoenus",
+        "imagenet_id": 52
+    },
+    "n01728920": {
+        "seg_id": 52,
+        "object_name": "ringneck snake, ring-necked snake, ring snake",
+        "imagenet_id": 53
+    },
+    "n01729322": {
+        "seg_id": 53,
+        "object_name": "hognose snake, puff adder, sand viper",
+        "imagenet_id": 54
+    },
+    "n01729977": {
+        "seg_id": 54,
+        "object_name": "green snake, grass snake",
+        "imagenet_id": 55
+    },
+    "n01734418": {
+        "seg_id": 55,
+        "object_name": "king snake, kingsnake",
+        "imagenet_id": 56
+    },
+    "n01735189": {
+        "seg_id": 56,
+        "object_name": "garter snake, grass snake",
+        "imagenet_id": 57
+    },
+    "n01737021": {
+        "seg_id": 57,
+        "object_name": "water snake",
+        "imagenet_id": 58
+    },
+    "n01739381": {
+        "seg_id": 58,
+        "object_name": "vine snake",
+        "imagenet_id": 59
+    },
+    "n01740131": {
+        "seg_id": 59,
+        "object_name": "night snake, hypsiglena torquata",
+        "imagenet_id": 60
+    },
+    "n01742172": {
+        "seg_id": 60,
+        "object_name": "boa constrictor, constrictor constrictor",
+        "imagenet_id": 61
+    },
+    "n01744401": {
+        "seg_id": 61,
+        "object_name": "rock python, rock snake, python sebae",
+        "imagenet_id": 62
+    },
+    "n01748264": {
+        "seg_id": 62,
+        "object_name": "indian cobra, naja naja",
+        "imagenet_id": 63
+    },
+    "n01749939": {
+        "seg_id": 63,
+        "object_name": "green mamba",
+        "imagenet_id": 64
+    },
+    "n01751748": {
+        "seg_id": 64,
+        "object_name": "sea snake",
+        "imagenet_id": 65
+    },
+    "n01753488": {
+        "seg_id": 65,
+        "object_name": "horned viper, cerastes, sand viper, horned asp, cerastes cornutus",
+        "imagenet_id": 66
+    },
+    "n01755581": {
+        "seg_id": 66,
+        "object_name": "diamondback, diamondback rattlesnake, crotalus adamanteus",
+        "imagenet_id": 67
+    },
+    "n01756291": {
+        "seg_id": 67,
+        "object_name": "sidewinder, horned rattlesnake, crotalus cerastes",
+        "imagenet_id": 68
+    },
+    "n01768244": {
+        "seg_id": 68,
+        "object_name": "trilobite",
+        "imagenet_id": 69
+    },
+    "n01770081": {
+        "seg_id": 69,
+        "object_name": "harvestman, daddy longlegs, phalangium opilio",
+        "imagenet_id": 70
+    },
+    "n01770393": {
+        "seg_id": 70,
+        "object_name": "scorpion",
+        "imagenet_id": 71
+    },
+    "n01773157": {
+        "seg_id": 71,
+        "object_name": "black and gold garden spider, argiope aurantia",
+        "imagenet_id": 72
+    },
+    "n01773549": {
+        "seg_id": 72,
+        "object_name": "barn spider, araneus cavaticus",
+        "imagenet_id": 73
+    },
+    "n01773797": {
+        "seg_id": 73,
+        "object_name": "garden spider, aranea diademata",
+        "imagenet_id": 74
+    },
+    "n01774384": {
+        "seg_id": 74,
+        "object_name": "black widow, latrodectus mactans",
+        "imagenet_id": 75
+    },
+    "n01774750": {
+        "seg_id": 75,
+        "object_name": "tarantula",
+        "imagenet_id": 76
+    },
+    "n01775062": {
+        "seg_id": 76,
+        "object_name": "wolf spider, hunting spider",
+        "imagenet_id": 77
+    },
+    "n01776313": {
+        "seg_id": 77,
+        "object_name": "tick",
+        "imagenet_id": 78
+    },
+    "n01784675": {
+        "seg_id": 78,
+        "object_name": "centipede",
+        "imagenet_id": 79
+    },
+    "n01795545": {
+        "seg_id": 79,
+        "object_name": "black grouse",
+        "imagenet_id": 80
+    },
+    "n01796340": {
+        "seg_id": 80,
+        "object_name": "ptarmigan",
+        "imagenet_id": 81
+    },
+    "n01797886": {
+        "seg_id": 81,
+        "object_name": "ruffed grouse, partridge, bonasa umbellus",
+        "imagenet_id": 82
+    },
+    "n01798484": {
+        "seg_id": 82,
+        "object_name": "prairie chicken, prairie grouse, prairie fowl",
+        "imagenet_id": 83
+    },
+    "n01806143": {
+        "seg_id": 83,
+        "object_name": "peacock",
+        "imagenet_id": 84
+    },
+    "n01806567": {
+        "seg_id": 84,
+        "object_name": "quail",
+        "imagenet_id": 85
+    },
+    "n01807496": {
+        "seg_id": 85,
+        "object_name": "quail",
+        "imagenet_id": 86
+    },
+    "n01817953": {
+        "seg_id": 86,
+        "object_name": "african grey, african gray, psittacus erithacus",
+        "imagenet_id": 87
+    },
+    "n01818515": {
+        "seg_id": 87,
+        "object_name": "macaw",
+        "imagenet_id": 88
+    },
+    "n01819313": {
+        "seg_id": 88,
+        "object_name": "sulphur-crested cockatoo, kakatoe galerita, cacatua galerita",
+        "imagenet_id": 89
+    },
+    "n01820546": {
+        "seg_id": 89,
+        "object_name": "lorikeet",
+        "imagenet_id": 90
+    },
+    "n01824575": {
+        "seg_id": 90,
+        "object_name": "coucal",
+        "imagenet_id": 91
+    },
+    "n01828970": {
+        "seg_id": 91,
+        "object_name": "bee eater",
+        "imagenet_id": 92
+    },
+    "n01829413": {
+        "seg_id": 92,
+        "object_name": "hornbill",
+        "imagenet_id": 93
+    },
+    "n01833805": {
+        "seg_id": 93,
+        "object_name": "hummingbird",
+        "imagenet_id": 94
+    },
+    "n01843065": {
+        "seg_id": 94,
+        "object_name": "jacamar",
+        "imagenet_id": 95
+    },
+    "n01843383": {
+        "seg_id": 95,
+        "object_name": "toucan",
+        "imagenet_id": 96
+    },
+    "n01847000": {
+        "seg_id": 96,
+        "object_name": "drake",
+        "imagenet_id": 97
+    },
+    "n01855032": {
+        "seg_id": 97,
+        "object_name": "red-breasted merganser, mergus serrator",
+        "imagenet_id": 98
+    },
+    "n01855672": {
+        "seg_id": 98,
+        "object_name": "goose",
+        "imagenet_id": 99
+    },
+    "n01860187": {
+        "seg_id": 99,
+        "object_name": "black swan, cygnus atratus",
+        "imagenet_id": 100
+    },
+    "n01871265": {
+        "seg_id": 100,
+        "object_name": "tusker",
+        "imagenet_id": 101
+    },
+    "n01872401": {
+        "seg_id": 101,
+        "object_name": "echidna, spiny anteater, anteater",
+        "imagenet_id": 102
+    },
+    "n01873310": {
+        "seg_id": 102,
+        "object_name": "platypus, duckbill, duckbilled platypus, duck-billed platypus, ornithorhynchus anatinus",
+        "imagenet_id": 103
+    },
+    "n01877812": {
+        "seg_id": 103,
+        "object_name": "wallaby, brush kangaroo",
+        "imagenet_id": 104
+    },
+    "n01882714": {
+        "seg_id": 104,
+        "object_name": "koala, koala bear, kangaroo bear, native bear, phascolarctos cinereus",
+        "imagenet_id": 105
+    },
+    "n01883070": {
+        "seg_id": 105,
+        "object_name": "wombat",
+        "imagenet_id": 106
+    },
+    "n01910747": {
+        "seg_id": 106,
+        "object_name": "jellyfish",
+        "imagenet_id": 107
+    },
+    "n01914609": {
+        "seg_id": 107,
+        "object_name": "sea anemone, anemone",
+        "imagenet_id": 108
+    },
+    "n01917289": {
+        "seg_id": 108,
+        "object_name": "brain coral",
+        "imagenet_id": 109
+    },
+    "n01924916": {
+        "seg_id": 109,
+        "object_name": "flatworm, platyhelminth",
+        "imagenet_id": 110
+    },
+    "n01930112": {
+        "seg_id": 110,
+        "object_name": "nematode, nematode worm, roundworm",
+        "imagenet_id": 111
+    },
+    "n01943899": {
+        "seg_id": 111,
+        "object_name": "conch",
+        "imagenet_id": 112
+    },
+    "n01944390": {
+        "seg_id": 112,
+        "object_name": "snail",
+        "imagenet_id": 113
+    },
+    "n01945685": {
+        "seg_id": 113,
+        "object_name": "slug",
+        "imagenet_id": 114
+    },
+    "n01950731": {
+        "seg_id": 114,
+        "object_name": "sea slug, nudibranch",
+        "imagenet_id": 115
+    },
+    "n01955084": {
+        "seg_id": 115,
+        "object_name": "chiton, coat-of-mail shell, sea cradle, polyplacophore",
+        "imagenet_id": 116
+    },
+    "n01968897": {
+        "seg_id": 116,
+        "object_name": "chambered nautilus, pearly nautilus, nautilus",
+        "imagenet_id": 117
+    },
+    "n01978287": {
+        "seg_id": 117,
+        "object_name": "dungeness crab, cancer magister",
+        "imagenet_id": 118
+    },
+    "n01978455": {
+        "seg_id": 118,
+        "object_name": "rock crab, cancer irroratus",
+        "imagenet_id": 119
+    },
+    "n01980166": {
+        "seg_id": 119,
+        "object_name": "fiddler crab",
+        "imagenet_id": 120
+    },
+    "n01981276": {
+        "seg_id": 120,
+        "object_name": "king crab, alaska crab, alaskan king crab, alaska king crab, paralithodes camtschatica",
+        "imagenet_id": 121
+    },
+    "n01983481": {
+        "seg_id": 121,
+        "object_name": "american lobster, northern lobster, maine lobster, homarus americanus",
+        "imagenet_id": 122
+    },
+    "n01984695": {
+        "seg_id": 122,
+        "object_name": "spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",
+        "imagenet_id": 123
+    },
+    "n01985128": {
+        "seg_id": 123,
+        "object_name": "crayfish, crawfish, crawdad, crawdaddy",
+        "imagenet_id": 124
+    },
+    "n01986214": {
+        "seg_id": 124,
+        "object_name": "hermit crab",
+        "imagenet_id": 125
+    },
+    "n01990800": {
+        "seg_id": 125,
+        "object_name": "isopod",
+        "imagenet_id": 126
+    },
+    "n02002556": {
+        "seg_id": 126,
+        "object_name": "white stork, ciconia ciconia",
+        "imagenet_id": 127
+    },
+    "n02002724": {
+        "seg_id": 127,
+        "object_name": "black stork, ciconia nigra",
+        "imagenet_id": 128
+    },
+    "n02006656": {
+        "seg_id": 128,
+        "object_name": "spoonbill",
+        "imagenet_id": 129
+    },
+    "n02007558": {
+        "seg_id": 129,
+        "object_name": "flamingo",
+        "imagenet_id": 130
+    },
+    "n02009229": {
+        "seg_id": 130,
+        "object_name": "little blue heron, egretta caerulea",
+        "imagenet_id": 131
+    },
+    "n02009912": {
+        "seg_id": 131,
+        "object_name": "american egret, great white heron, egretta albus",
+        "imagenet_id": 132
+    },
+    "n02011460": {
+        "seg_id": 132,
+        "object_name": "bittern",
+        "imagenet_id": 133
+    },
+    "n02012849": {
+        "seg_id": 133,
+        "object_name": "crane",
+        "imagenet_id": 134
+    },
+    "n02013706": {
+        "seg_id": 134,
+        "object_name": "limpkin, aramus pictus",
+        "imagenet_id": 135
+    },
+    "n02017213": {
+        "seg_id": 135,
+        "object_name": "european gallinule, porphyrio porphyrio",
+        "imagenet_id": 136
+    },
+    "n02018207": {
+        "seg_id": 136,
+        "object_name": "american coot, marsh hen, mud hen, water hen, fulica americana",
+        "imagenet_id": 137
+    },
+    "n02018795": {
+        "seg_id": 137,
+        "object_name": "bustard",
+        "imagenet_id": 138
+    },
+    "n02025239": {
+        "seg_id": 138,
+        "object_name": "ruddy turnstone, arenaria interpres",
+        "imagenet_id": 139
+    },
+    "n02027492": {
+        "seg_id": 139,
+        "object_name": "red-backed sandpiper, dunlin, erolia alpina",
+        "imagenet_id": 140
+    },
+    "n02028035": {
+        "seg_id": 140,
+        "object_name": "redshank, tringa totanus",
+        "imagenet_id": 141
+    },
+    "n02033041": {
+        "seg_id": 141,
+        "object_name": "dowitcher",
+        "imagenet_id": 142
+    },
+    "n02037110": {
+        "seg_id": 142,
+        "object_name": "oystercatcher, oyster catcher",
+        "imagenet_id": 143
+    },
+    "n02051845": {
+        "seg_id": 143,
+        "object_name": "pelican",
+        "imagenet_id": 144
+    },
+    "n02056570": {
+        "seg_id": 144,
+        "object_name": "king penguin, aptenodytes patagonica",
+        "imagenet_id": 145
+    },
+    "n02058221": {
+        "seg_id": 145,
+        "object_name": "albatross, mollymawk",
+        "imagenet_id": 146
+    },
+    "n02066245": {
+        "seg_id": 146,
+        "object_name": "grey whale, gray whale, devilfish, eschrichtius gibbosus, eschrichtius robustus",
+        "imagenet_id": 147
+    },
+    "n02071294": {
+        "seg_id": 147,
+        "object_name": "killer whale, killer, orca, grampus, sea wolf, orcinus orca",
+        "imagenet_id": 148
+    },
+    "n02074367": {
+        "seg_id": 148,
+        "object_name": "dugong, dugong dugon",
+        "imagenet_id": 149
+    },
+    "n02077923": {
+        "seg_id": 149,
+        "object_name": "sea lion",
+        "imagenet_id": 150
+    },
+    "n02085620": {
+        "seg_id": 150,
+        "object_name": "chihuahua",
+        "imagenet_id": 151
+    },
+    "n02085782": {
+        "seg_id": 151,
+        "object_name": "japanese spaniel",
+        "imagenet_id": 152
+    },
+    "n02085936": {
+        "seg_id": 152,
+        "object_name": "maltese dog, maltese terrier, maltese",
+        "imagenet_id": 153
+    },
+    "n02086079": {
+        "seg_id": 153,
+        "object_name": "pekinese, pekingese, peke",
+        "imagenet_id": 154
+    },
+    "n02086240": {
+        "seg_id": 154,
+        "object_name": "shih-tzu",
+        "imagenet_id": 155
+    },
+    "n02086646": {
+        "seg_id": 155,
+        "object_name": "blenheim spaniel",
+        "imagenet_id": 156
+    },
+    "n02086910": {
+        "seg_id": 156,
+        "object_name": "papillon",
+        "imagenet_id": 157
+    },
+    "n02087046": {
+        "seg_id": 157,
+        "object_name": "toy terrier",
+        "imagenet_id": 158
+    },
+    "n02087394": {
+        "seg_id": 158,
+        "object_name": "rhodesian ridgeback",
+        "imagenet_id": 159
+    },
+    "n02088094": {
+        "seg_id": 159,
+        "object_name": "afghan hound, afghan",
+        "imagenet_id": 160
+    },
+    "n02088238": {
+        "seg_id": 160,
+        "object_name": "basset, basset hound",
+        "imagenet_id": 161
+    },
+    "n02088364": {
+        "seg_id": 161,
+        "object_name": "beagle",
+        "imagenet_id": 162
+    },
+    "n02088466": {
+        "seg_id": 162,
+        "object_name": "bloodhound, sleuthhound",
+        "imagenet_id": 163
+    },
+    "n02088632": {
+        "seg_id": 163,
+        "object_name": "bluetick",
+        "imagenet_id": 164
+    },
+    "n02089078": {
+        "seg_id": 164,
+        "object_name": "black-and-tan coonhound",
+        "imagenet_id": 165
+    },
+    "n02089867": {
+        "seg_id": 165,
+        "object_name": "walker hound, walker foxhound",
+        "imagenet_id": 166
+    },
+    "n02089973": {
+        "seg_id": 166,
+        "object_name": "english foxhound",
+        "imagenet_id": 167
+    },
+    "n02090379": {
+        "seg_id": 167,
+        "object_name": "redbone",
+        "imagenet_id": 168
+    },
+    "n02090622": {
+        "seg_id": 168,
+        "object_name": "borzoi, russian wolfhound",
+        "imagenet_id": 169
+    },
+    "n02090721": {
+        "seg_id": 169,
+        "object_name": "irish wolfhound",
+        "imagenet_id": 170
+    },
+    "n02091032": {
+        "seg_id": 170,
+        "object_name": "italian greyhound",
+        "imagenet_id": 171
+    },
+    "n02091134": {
+        "seg_id": 171,
+        "object_name": "whippet",
+        "imagenet_id": 172
+    },
+    "n02091244": {
+        "seg_id": 172,
+        "object_name": "ibizan hound, ibizan podenco",
+        "imagenet_id": 173
+    },
+    "n02091467": {
+        "seg_id": 173,
+        "object_name": "norwegian elkhound, elkhound",
+        "imagenet_id": 174
+    },
+    "n02091635": {
+        "seg_id": 174,
+        "object_name": "otterhound, otter hound",
+        "imagenet_id": 175
+    },
+    "n02091831": {
+        "seg_id": 175,
+        "object_name": "saluki, gazelle hound",
+        "imagenet_id": 176
+    },
+    "n02092002": {
+        "seg_id": 176,
+        "object_name": "scottish deerhound, deerhound",
+        "imagenet_id": 177
+    },
+    "n02092339": {
+        "seg_id": 177,
+        "object_name": "weimaraner",
+        "imagenet_id": 178
+    },
+    "n02093256": {
+        "seg_id": 178,
+        "object_name": "staffordshire bullterrier, staffordshire bull terrier",
+        "imagenet_id": 179
+    },
+    "n02093428": {
+        "seg_id": 179,
+        "object_name": "american staffordshire terrier, staffordshire terrier, american pit bull terrier, pit bull terrier",
+        "imagenet_id": 180
+    },
+    "n02093647": {
+        "seg_id": 180,
+        "object_name": "bedlington terrier",
+        "imagenet_id": 181
+    },
+    "n02093754": {
+        "seg_id": 181,
+        "object_name": "border terrier",
+        "imagenet_id": 182
+    },
+    "n02093859": {
+        "seg_id": 182,
+        "object_name": "kerry blue terrier",
+        "imagenet_id": 183
+    },
+    "n02093991": {
+        "seg_id": 183,
+        "object_name": "irish terrier",
+        "imagenet_id": 184
+    },
+    "n02094114": {
+        "seg_id": 184,
+        "object_name": "norfolk terrier",
+        "imagenet_id": 185
+    },
+    "n02094258": {
+        "seg_id": 185,
+        "object_name": "norwich terrier",
+        "imagenet_id": 186
+    },
+    "n02094433": {
+        "seg_id": 186,
+        "object_name": "yorkshire terrier",
+        "imagenet_id": 187
+    },
+    "n02095314": {
+        "seg_id": 187,
+        "object_name": "wire-haired fox terrier",
+        "imagenet_id": 188
+    },
+    "n02095570": {
+        "seg_id": 188,
+        "object_name": "lakeland terrier",
+        "imagenet_id": 189
+    },
+    "n02095889": {
+        "seg_id": 189,
+        "object_name": "sealyham terrier, sealyham",
+        "imagenet_id": 190
+    },
+    "n02096051": {
+        "seg_id": 190,
+        "object_name": "airedale, airedale terrier",
+        "imagenet_id": 191
+    },
+    "n02096177": {
+        "seg_id": 191,
+        "object_name": "cairn, cairn terrier",
+        "imagenet_id": 192
+    },
+    "n02096294": {
+        "seg_id": 192,
+        "object_name": "australian terrier",
+        "imagenet_id": 193
+    },
+    "n02096437": {
+        "seg_id": 193,
+        "object_name": "dandie dinmont, dandie dinmont terrier",
+        "imagenet_id": 194
+    },
+    "n02096585": {
+        "seg_id": 194,
+        "object_name": "boston bull, boston terrier",
+        "imagenet_id": 195
+    },
+    "n02097047": {
+        "seg_id": 195,
+        "object_name": "miniature schnauzer",
+        "imagenet_id": 196
+    },
+    "n02097130": {
+        "seg_id": 196,
+        "object_name": "giant schnauzer",
+        "imagenet_id": 197
+    },
+    "n02097209": {
+        "seg_id": 197,
+        "object_name": "standard schnauzer",
+        "imagenet_id": 198
+    },
+    "n02097298": {
+        "seg_id": 198,
+        "object_name": "scotch terrier, scottish terrier, scottie",
+        "imagenet_id": 199
+    },
+    "n02097474": {
+        "seg_id": 199,
+        "object_name": "tibetan terrier, chrysanthemum dog",
+        "imagenet_id": 200
+    },
+    "n02097658": {
+        "seg_id": 200,
+        "object_name": "silky terrier, sydney silky",
+        "imagenet_id": 201
+    },
+    "n02098105": {
+        "seg_id": 201,
+        "object_name": "soft-coated wheaten terrier",
+        "imagenet_id": 202
+    },
+    "n02098286": {
+        "seg_id": 202,
+        "object_name": "west highland white terrier",
+        "imagenet_id": 203
+    },
+    "n02098413": {
+        "seg_id": 203,
+        "object_name": "lhasa, lhasa apso",
+        "imagenet_id": 204
+    },
+    "n02099267": {
+        "seg_id": 204,
+        "object_name": "flat-coated retriever",
+        "imagenet_id": 205
+    },
+    "n02099429": {
+        "seg_id": 205,
+        "object_name": "curly-coated retriever",
+        "imagenet_id": 206
+    },
+    "n02099601": {
+        "seg_id": 206,
+        "object_name": "golden retriever",
+        "imagenet_id": 207
+    },
+    "n02099712": {
+        "seg_id": 207,
+        "object_name": "labrador retriever",
+        "imagenet_id": 208
+    },
+    "n02099849": {
+        "seg_id": 208,
+        "object_name": "chesapeake bay retriever",
+        "imagenet_id": 209
+    },
+    "n02100236": {
+        "seg_id": 209,
+        "object_name": "german short-haired pointer",
+        "imagenet_id": 210
+    },
+    "n02100583": {
+        "seg_id": 210,
+        "object_name": "vizsla, hungarian pointer",
+        "imagenet_id": 211
+    },
+    "n02100735": {
+        "seg_id": 211,
+        "object_name": "english setter",
+        "imagenet_id": 212
+    },
+    "n02100877": {
+        "seg_id": 212,
+        "object_name": "irish setter, red setter",
+        "imagenet_id": 213
+    },
+    "n02101006": {
+        "seg_id": 213,
+        "object_name": "gordon setter",
+        "imagenet_id": 214
+    },
+    "n02101388": {
+        "seg_id": 214,
+        "object_name": "brittany spaniel",
+        "imagenet_id": 215
+    },
+    "n02101556": {
+        "seg_id": 215,
+        "object_name": "clumber, clumber spaniel",
+        "imagenet_id": 216
+    },
+    "n02102040": {
+        "seg_id": 216,
+        "object_name": "english springer, english springer spaniel",
+        "imagenet_id": 217
+    },
+    "n02102177": {
+        "seg_id": 217,
+        "object_name": "welsh springer spaniel",
+        "imagenet_id": 218
+    },
+    "n02102318": {
+        "seg_id": 218,
+        "object_name": "cocker spaniel, english cocker spaniel, cocker",
+        "imagenet_id": 219
+    },
+    "n02102480": {
+        "seg_id": 219,
+        "object_name": "sussex spaniel",
+        "imagenet_id": 220
+    },
+    "n02102973": {
+        "seg_id": 220,
+        "object_name": "irish water spaniel",
+        "imagenet_id": 221
+    },
+    "n02104029": {
+        "seg_id": 221,
+        "object_name": "kuvasz",
+        "imagenet_id": 222
+    },
+    "n02104365": {
+        "seg_id": 222,
+        "object_name": "schipperke",
+        "imagenet_id": 223
+    },
+    "n02105056": {
+        "seg_id": 223,
+        "object_name": "groenendael",
+        "imagenet_id": 224
+    },
+    "n02105162": {
+        "seg_id": 224,
+        "object_name": "malinois",
+        "imagenet_id": 225
+    },
+    "n02105251": {
+        "seg_id": 225,
+        "object_name": "briard",
+        "imagenet_id": 226
+    },
+    "n02105412": {
+        "seg_id": 226,
+        "object_name": "kelpie",
+        "imagenet_id": 227
+    },
+    "n02105505": {
+        "seg_id": 227,
+        "object_name": "komondor",
+        "imagenet_id": 228
+    },
+    "n02105641": {
+        "seg_id": 228,
+        "object_name": "old english sheepdog, bobtail",
+        "imagenet_id": 229
+    },
+    "n02105855": {
+        "seg_id": 229,
+        "object_name": "shetland sheepdog, shetland sheep dog, shetland",
+        "imagenet_id": 230
+    },
+    "n02106030": {
+        "seg_id": 230,
+        "object_name": "collie",
+        "imagenet_id": 231
+    },
+    "n02106166": {
+        "seg_id": 231,
+        "object_name": "border collie",
+        "imagenet_id": 232
+    },
+    "n02106382": {
+        "seg_id": 232,
+        "object_name": "bouvier des flandres, bouviers des flandres",
+        "imagenet_id": 233
+    },
+    "n02106550": {
+        "seg_id": 233,
+        "object_name": "rottweiler",
+        "imagenet_id": 234
+    },
+    "n02106662": {
+        "seg_id": 234,
+        "object_name": "german shepherd, german shepherd dog, german police dog, alsatian",
+        "imagenet_id": 235
+    },
+    "n02107142": {
+        "seg_id": 235,
+        "object_name": "doberman, doberman pinscher",
+        "imagenet_id": 236
+    },
+    "n02107312": {
+        "seg_id": 236,
+        "object_name": "miniature pinscher",
+        "imagenet_id": 237
+    },
+    "n02107574": {
+        "seg_id": 237,
+        "object_name": "greater swiss mountain dog",
+        "imagenet_id": 238
+    },
+    "n02107683": {
+        "seg_id": 238,
+        "object_name": "bernese mountain dog",
+        "imagenet_id": 239
+    },
+    "n02107908": {
+        "seg_id": 239,
+        "object_name": "appenzeller",
+        "imagenet_id": 240
+    },
+    "n02108000": {
+        "seg_id": 240,
+        "object_name": "entlebucher",
+        "imagenet_id": 241
+    },
+    "n02108089": {
+        "seg_id": 241,
+        "object_name": "boxer",
+        "imagenet_id": 242
+    },
+    "n02108422": {
+        "seg_id": 242,
+        "object_name": "bull mastiff",
+        "imagenet_id": 243
+    },
+    "n02108551": {
+        "seg_id": 243,
+        "object_name": "tibetan mastiff",
+        "imagenet_id": 244
+    },
+    "n02108915": {
+        "seg_id": 244,
+        "object_name": "french bulldog",
+        "imagenet_id": 245
+    },
+    "n02109047": {
+        "seg_id": 245,
+        "object_name": "great dane",
+        "imagenet_id": 246
+    },
+    "n02109525": {
+        "seg_id": 246,
+        "object_name": "saint bernard, st bernard",
+        "imagenet_id": 247
+    },
+    "n02109961": {
+        "seg_id": 247,
+        "object_name": "eskimo dog, husky",
+        "imagenet_id": 248
+    },
+    "n02110063": {
+        "seg_id": 248,
+        "object_name": "malamute, malemute, alaskan malamute",
+        "imagenet_id": 249
+    },
+    "n02110185": {
+        "seg_id": 249,
+        "object_name": "siberian husky",
+        "imagenet_id": 250
+    },
+    "n02110341": {
+        "seg_id": 250,
+        "object_name": "dalmatian, coach dog, carriage dog",
+        "imagenet_id": 251
+    },
+    "n02110627": {
+        "seg_id": 251,
+        "object_name": "affenpinscher, monkey pinscher, monkey dog",
+        "imagenet_id": 252
+    },
+    "n02110806": {
+        "seg_id": 252,
+        "object_name": "basenji",
+        "imagenet_id": 253
+    },
+    "n02110958": {
+        "seg_id": 253,
+        "object_name": "pug, pug-dog",
+        "imagenet_id": 254
+    },
+    "n02111129": {
+        "seg_id": 254,
+        "object_name": "leonberg",
+        "imagenet_id": 255
+    },
+    "n02111277": {
+        "seg_id": 255,
+        "object_name": "newfoundland, newfoundland dog",
+        "imagenet_id": 256
+    },
+    "n02111500": {
+        "seg_id": 256,
+        "object_name": "great pyrenees",
+        "imagenet_id": 257
+    },
+    "n02111889": {
+        "seg_id": 257,
+        "object_name": "samoyed, samoyede",
+        "imagenet_id": 258
+    },
+    "n02112018": {
+        "seg_id": 258,
+        "object_name": "pomeranian",
+        "imagenet_id": 259
+    },
+    "n02112137": {
+        "seg_id": 259,
+        "object_name": "chow, chow chow",
+        "imagenet_id": 260
+    },
+    "n02112350": {
+        "seg_id": 260,
+        "object_name": "keeshond",
+        "imagenet_id": 261
+    },
+    "n02112706": {
+        "seg_id": 261,
+        "object_name": "brabancon griffon",
+        "imagenet_id": 262
+    },
+    "n02113023": {
+        "seg_id": 262,
+        "object_name": "pembroke, pembroke welsh corgi",
+        "imagenet_id": 263
+    },
+    "n02113186": {
+        "seg_id": 263,
+        "object_name": "cardigan, cardigan welsh corgi",
+        "imagenet_id": 264
+    },
+    "n02113624": {
+        "seg_id": 264,
+        "object_name": "toy poodle",
+        "imagenet_id": 265
+    },
+    "n02113712": {
+        "seg_id": 265,
+        "object_name": "miniature poodle",
+        "imagenet_id": 266
+    },
+    "n02113799": {
+        "seg_id": 266,
+        "object_name": "standard poodle",
+        "imagenet_id": 267
+    },
+    "n02113978": {
+        "seg_id": 267,
+        "object_name": "mexican hairless",
+        "imagenet_id": 268
+    },
+    "n02114367": {
+        "seg_id": 268,
+        "object_name": "timber wolf, grey wolf, gray wolf, canis lupus",
+        "imagenet_id": 269
+    },
+    "n02114548": {
+        "seg_id": 269,
+        "object_name": "white wolf, arctic wolf, canis lupus tundrarum",
+        "imagenet_id": 270
+    },
+    "n02114712": {
+        "seg_id": 270,
+        "object_name": "red wolf, maned wolf, canis rufus, canis niger",
+        "imagenet_id": 271
+    },
+    "n02114855": {
+        "seg_id": 271,
+        "object_name": "coyote, prairie wolf, brush wolf, canis latrans",
+        "imagenet_id": 272
+    },
+    "n02115641": {
+        "seg_id": 272,
+        "object_name": "dingo, warrigal, warragal, canis dingo",
+        "imagenet_id": 273
+    },
+    "n02115913": {
+        "seg_id": 273,
+        "object_name": "dhole, cuon alpinus",
+        "imagenet_id": 274
+    },
+    "n02116738": {
+        "seg_id": 274,
+        "object_name": "african hunting dog, hyena dog, cape hunting dog, lycaon pictus",
+        "imagenet_id": 275
+    },
+    "n02117135": {
+        "seg_id": 275,
+        "object_name": "hyena, hyaena",
+        "imagenet_id": 276
+    },
+    "n02119022": {
+        "seg_id": 276,
+        "object_name": "red fox, vulpes vulpes",
+        "imagenet_id": 277
+    },
+    "n02119789": {
+        "seg_id": 277,
+        "object_name": "kit fox, vulpes macrotis",
+        "imagenet_id": 278
+    },
+    "n02120079": {
+        "seg_id": 278,
+        "object_name": "arctic fox, white fox, alopex lagopus",
+        "imagenet_id": 279
+    },
+    "n02120505": {
+        "seg_id": 279,
+        "object_name": "grey fox, gray fox, urocyon cinereoargenteus",
+        "imagenet_id": 280
+    },
+    "n02123045": {
+        "seg_id": 280,
+        "object_name": "tabby, tabby cat",
+        "imagenet_id": 281
+    },
+    "n02123159": {
+        "seg_id": 281,
+        "object_name": "tiger cat",
+        "imagenet_id": 282
+    },
+    "n02123394": {
+        "seg_id": 282,
+        "object_name": "persian cat",
+        "imagenet_id": 283
+    },
+    "n02123597": {
+        "seg_id": 283,
+        "object_name": "siamese cat, siamese",
+        "imagenet_id": 284
+    },
+    "n02124075": {
+        "seg_id": 284,
+        "object_name": "egyptian cat",
+        "imagenet_id": 285
+    },
+    "n02125311": {
+        "seg_id": 285,
+        "object_name": "cougar, puma, catamount, mountain lion, painter, panther, felis concolor",
+        "imagenet_id": 286
+    },
+    "n02127052": {
+        "seg_id": 286,
+        "object_name": "lynx, catamount",
+        "imagenet_id": 287
+    },
+    "n02128385": {
+        "seg_id": 287,
+        "object_name": "leopard, panthera pardus",
+        "imagenet_id": 288
+    },
+    "n02128757": {
+        "seg_id": 288,
+        "object_name": "snow leopard, ounce, panthera uncia",
+        "imagenet_id": 289
+    },
+    "n02128925": {
+        "seg_id": 289,
+        "object_name": "jaguar, panther, panthera onca, felis onca",
+        "imagenet_id": 290
+    },
+    "n02129165": {
+        "seg_id": 290,
+        "object_name": "lion, king of beasts, panthera leo",
+        "imagenet_id": 291
+    },
+    "n02129604": {
+        "seg_id": 291,
+        "object_name": "tiger, panthera tigris",
+        "imagenet_id": 292
+    },
+    "n02130308": {
+        "seg_id": 292,
+        "object_name": "cheetah, chetah, acinonyx jubatus",
+        "imagenet_id": 293
+    },
+    "n02132136": {
+        "seg_id": 293,
+        "object_name": "brown bear, bruin, ursus arctos",
+        "imagenet_id": 294
+    },
+    "n02133161": {
+        "seg_id": 294,
+        "object_name": "american black bear, black bear, ursus americanus, euarctos americanus",
+        "imagenet_id": 295
+    },
+    "n02134084": {
+        "seg_id": 295,
+        "object_name": "ice bear, polar bear, ursus maritimus, thalarctos maritimus",
+        "imagenet_id": 296
+    },
+    "n02134418": {
+        "seg_id": 296,
+        "object_name": "sloth bear, melursus ursinus, ursus ursinus",
+        "imagenet_id": 297
+    },
+    "n02137549": {
+        "seg_id": 297,
+        "object_name": "mongoose",
+        "imagenet_id": 298
+    },
+    "n02138441": {
+        "seg_id": 298,
+        "object_name": "meerkat, mierkat",
+        "imagenet_id": 299
+    },
+    "n02165105": {
+        "seg_id": 299,
+        "object_name": "tiger beetle",
+        "imagenet_id": 300
+    },
+    "n02165456": {
+        "seg_id": 300,
+        "object_name": "ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",
+        "imagenet_id": 301
+    },
+    "n02167151": {
+        "seg_id": 301,
+        "object_name": "ground beetle, carabid beetle",
+        "imagenet_id": 302
+    },
+    "n02168699": {
+        "seg_id": 302,
+        "object_name": "long-horned beetle, longicorn, longicorn beetle",
+        "imagenet_id": 303
+    },
+    "n02169497": {
+        "seg_id": 303,
+        "object_name": "leaf beetle, chrysomelid",
+        "imagenet_id": 304
+    },
+    "n02172182": {
+        "seg_id": 304,
+        "object_name": "dung beetle",
+        "imagenet_id": 305
+    },
+    "n02174001": {
+        "seg_id": 305,
+        "object_name": "rhinoceros beetle",
+        "imagenet_id": 306
+    },
+    "n02177972": {
+        "seg_id": 306,
+        "object_name": "weevil",
+        "imagenet_id": 307
+    },
+    "n02190166": {
+        "seg_id": 307,
+        "object_name": "fly",
+        "imagenet_id": 308
+    },
+    "n02206856": {
+        "seg_id": 308,
+        "object_name": "bee",
+        "imagenet_id": 309
+    },
+    "n02219486": {
+        "seg_id": 309,
+        "object_name": "ant, emmet, pismire",
+        "imagenet_id": 310
+    },
+    "n02226429": {
+        "seg_id": 310,
+        "object_name": "grasshopper, hopper",
+        "imagenet_id": 311
+    },
+    "n02229544": {
+        "seg_id": 311,
+        "object_name": "cricket",
+        "imagenet_id": 312
+    },
+    "n02231487": {
+        "seg_id": 312,
+        "object_name": "walking stick, walkingstick, stick insect",
+        "imagenet_id": 313
+    },
+    "n02233338": {
+        "seg_id": 313,
+        "object_name": "cockroach, roach",
+        "imagenet_id": 314
+    },
+    "n02236044": {
+        "seg_id": 314,
+        "object_name": "mantis, mantid",
+        "imagenet_id": 315
+    },
+    "n02256656": {
+        "seg_id": 315,
+        "object_name": "cicada, cicala",
+        "imagenet_id": 316
+    },
+    "n02259212": {
+        "seg_id": 316,
+        "object_name": "leafhopper",
+        "imagenet_id": 317
+    },
+    "n02264363": {
+        "seg_id": 317,
+        "object_name": "lacewing, lacewing fly",
+        "imagenet_id": 318
+    },
+    "n02268443": {
+        "seg_id": 318,
+        "object_name": "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",
+        "imagenet_id": 319
+    },
+    "n02268853": {
+        "seg_id": 319,
+        "object_name": "damselfly",
+        "imagenet_id": 320
+    },
+    "n02276258": {
+        "seg_id": 320,
+        "object_name": "admiral",
+        "imagenet_id": 321
+    },
+    "n02277742": {
+        "seg_id": 321,
+        "object_name": "ringlet, ringlet butterfly",
+        "imagenet_id": 322
+    },
+    "n02279972": {
+        "seg_id": 322,
+        "object_name": "monarch, monarch butterfly, milkweed butterfly, danaus plexippus",
+        "imagenet_id": 323
+    },
+    "n02280649": {
+        "seg_id": 323,
+        "object_name": "cabbage butterfly",
+        "imagenet_id": 324
+    },
+    "n02281406": {
+        "seg_id": 324,
+        "object_name": "sulphur butterfly, sulfur butterfly",
+        "imagenet_id": 325
+    },
+    "n02281787": {
+        "seg_id": 325,
+        "object_name": "lycaenid, lycaenid butterfly",
+        "imagenet_id": 326
+    },
+    "n02317335": {
+        "seg_id": 326,
+        "object_name": "starfish, sea star",
+        "imagenet_id": 327
+    },
+    "n02319095": {
+        "seg_id": 327,
+        "object_name": "sea urchin",
+        "imagenet_id": 328
+    },
+    "n02321529": {
+        "seg_id": 328,
+        "object_name": "sea cucumber, holothurian",
+        "imagenet_id": 329
+    },
+    "n02325366": {
+        "seg_id": 329,
+        "object_name": "wood rabbit, cottontail, cottontail rabbit",
+        "imagenet_id": 330
+    },
+    "n02326432": {
+        "seg_id": 330,
+        "object_name": "hare",
+        "imagenet_id": 331
+    },
+    "n02328150": {
+        "seg_id": 331,
+        "object_name": "angora, angora rabbit",
+        "imagenet_id": 332
+    },
+    "n02342885": {
+        "seg_id": 332,
+        "object_name": "hamster",
+        "imagenet_id": 333
+    },
+    "n02346627": {
+        "seg_id": 333,
+        "object_name": "porcupine, hedgehog",
+        "imagenet_id": 334
+    },
+    "n02356798": {
+        "seg_id": 334,
+        "object_name": "fox squirrel, eastern fox squirrel, sciurus niger",
+        "imagenet_id": 335
+    },
+    "n02361337": {
+        "seg_id": 335,
+        "object_name": "marmot",
+        "imagenet_id": 336
+    },
+    "n02363005": {
+        "seg_id": 336,
+        "object_name": "beaver",
+        "imagenet_id": 337
+    },
+    "n02364673": {
+        "seg_id": 337,
+        "object_name": "guinea pig, cavia cobaya",
+        "imagenet_id": 338
+    },
+    "n02389026": {
+        "seg_id": 338,
+        "object_name": "sorrel",
+        "imagenet_id": 339
+    },
+    "n02391049": {
+        "seg_id": 339,
+        "object_name": "zebra",
+        "imagenet_id": 340
+    },
+    "n02395406": {
+        "seg_id": 340,
+        "object_name": "hog, pig, grunter, squealer, sus scrofa",
+        "imagenet_id": 341
+    },
+    "n02396427": {
+        "seg_id": 341,
+        "object_name": "wild boar, boar, sus scrofa",
+        "imagenet_id": 342
+    },
+    "n02397096": {
+        "seg_id": 342,
+        "object_name": "warthog",
+        "imagenet_id": 343
+    },
+    "n02398521": {
+        "seg_id": 343,
+        "object_name": "hippopotamus, hippo, river horse, hippopotamus amphibius",
+        "imagenet_id": 344
+    },
+    "n02403003": {
+        "seg_id": 344,
+        "object_name": "ox",
+        "imagenet_id": 345
+    },
+    "n02408429": {
+        "seg_id": 345,
+        "object_name": "water buffalo, water ox, asiatic buffalo, bubalus bubalis",
+        "imagenet_id": 346
+    },
+    "n02410509": {
+        "seg_id": 346,
+        "object_name": "bison",
+        "imagenet_id": 347
+    },
+    "n02412080": {
+        "seg_id": 347,
+        "object_name": "ram, tup",
+        "imagenet_id": 348
+    },
+    "n02415577": {
+        "seg_id": 348,
+        "object_name": "bighorn, bighorn sheep, cimarron, rocky mountain bighorn, rocky mountain sheep, ovis canadensis",
+        "imagenet_id": 349
+    },
+    "n02417914": {
+        "seg_id": 349,
+        "object_name": "ibex, capra ibex",
+        "imagenet_id": 350
+    },
+    "n02422106": {
+        "seg_id": 350,
+        "object_name": "hartebeest",
+        "imagenet_id": 351
+    },
+    "n02422699": {
+        "seg_id": 351,
+        "object_name": "impala, aepyceros melampus",
+        "imagenet_id": 352
+    },
+    "n02423022": {
+        "seg_id": 352,
+        "object_name": "gazelle",
+        "imagenet_id": 353
+    },
+    "n02437312": {
+        "seg_id": 353,
+        "object_name": "arabian camel, dromedary, camelus dromedarius",
+        "imagenet_id": 354
+    },
+    "n02437616": {
+        "seg_id": 354,
+        "object_name": "llama",
+        "imagenet_id": 355
+    },
+    "n02441942": {
+        "seg_id": 355,
+        "object_name": "weasel",
+        "imagenet_id": 356
+    },
+    "n02442845": {
+        "seg_id": 356,
+        "object_name": "mink",
+        "imagenet_id": 357
+    },
+    "n02443114": {
+        "seg_id": 357,
+        "object_name": "polecat, fitch, foulmart, foumart, mustela putorius",
+        "imagenet_id": 358
+    },
+    "n02443484": {
+        "seg_id": 358,
+        "object_name": "black-footed ferret, ferret, mustela nigripes",
+        "imagenet_id": 359
+    },
+    "n02444819": {
+        "seg_id": 359,
+        "object_name": "otter",
+        "imagenet_id": 360
+    },
+    "n02445715": {
+        "seg_id": 360,
+        "object_name": "skunk, polecat, wood pussy",
+        "imagenet_id": 361
+    },
+    "n02447366": {
+        "seg_id": 361,
+        "object_name": "badger",
+        "imagenet_id": 362
+    },
+    "n02454379": {
+        "seg_id": 362,
+        "object_name": "armadillo",
+        "imagenet_id": 363
+    },
+    "n02457408": {
+        "seg_id": 363,
+        "object_name": "three-toed sloth, ai, bradypus tridactylus",
+        "imagenet_id": 364
+    },
+    "n02480495": {
+        "seg_id": 364,
+        "object_name": "orangutan, orang, orangutang, pongo pygmaeus",
+        "imagenet_id": 365
+    },
+    "n02480855": {
+        "seg_id": 365,
+        "object_name": "gorilla, gorilla gorilla",
+        "imagenet_id": 366
+    },
+    "n02481823": {
+        "seg_id": 366,
+        "object_name": "chimpanzee, chimp, pan troglodytes",
+        "imagenet_id": 367
+    },
+    "n02483362": {
+        "seg_id": 367,
+        "object_name": "gibbon, hylobates lar",
+        "imagenet_id": 368
+    },
+    "n02483708": {
+        "seg_id": 368,
+        "object_name": "siamang, hylobates syndactylus, symphalangus syndactylus",
+        "imagenet_id": 369
+    },
+    "n02484975": {
+        "seg_id": 369,
+        "object_name": "guenon, guenon monkey",
+        "imagenet_id": 370
+    },
+    "n02486261": {
+        "seg_id": 370,
+        "object_name": "patas, hussar monkey, erythrocebus patas",
+        "imagenet_id": 371
+    },
+    "n02486410": {
+        "seg_id": 371,
+        "object_name": "baboon",
+        "imagenet_id": 372
+    },
+    "n02487347": {
+        "seg_id": 372,
+        "object_name": "macaque",
+        "imagenet_id": 373
+    },
+    "n02488291": {
+        "seg_id": 373,
+        "object_name": "langur",
+        "imagenet_id": 374
+    },
+    "n02488702": {
+        "seg_id": 374,
+        "object_name": "colobus, colobus monkey",
+        "imagenet_id": 375
+    },
+    "n02489166": {
+        "seg_id": 375,
+        "object_name": "proboscis monkey, nasalis larvatus",
+        "imagenet_id": 376
+    },
+    "n02490219": {
+        "seg_id": 376,
+        "object_name": "marmoset",
+        "imagenet_id": 377
+    },
+    "n02492035": {
+        "seg_id": 377,
+        "object_name": "capuchin, ringtail, cebus capucinus",
+        "imagenet_id": 378
+    },
+    "n02492660": {
+        "seg_id": 378,
+        "object_name": "howler monkey, howler",
+        "imagenet_id": 379
+    },
+    "n02493509": {
+        "seg_id": 379,
+        "object_name": "titi, titi monkey",
+        "imagenet_id": 380
+    },
+    "n02493793": {
+        "seg_id": 380,
+        "object_name": "spider monkey, ateles geoffroyi",
+        "imagenet_id": 381
+    },
+    "n02494079": {
+        "seg_id": 381,
+        "object_name": "squirrel monkey, saimiri sciureus",
+        "imagenet_id": 382
+    },
+    "n02497673": {
+        "seg_id": 382,
+        "object_name": "madagascar cat, ring-tailed lemur, lemur catta",
+        "imagenet_id": 383
+    },
+    "n02500267": {
+        "seg_id": 383,
+        "object_name": "indri, indris, indri indri, indri brevicaudatus",
+        "imagenet_id": 384
+    },
+    "n02504013": {
+        "seg_id": 384,
+        "object_name": "indian elephant, elephas maximus",
+        "imagenet_id": 385
+    },
+    "n02504458": {
+        "seg_id": 385,
+        "object_name": "african elephant, loxodonta africana",
+        "imagenet_id": 386
+    },
+    "n02509815": {
+        "seg_id": 386,
+        "object_name": "lesser panda, red panda, panda, bear cat, cat bear, ailurus fulgens",
+        "imagenet_id": 387
+    },
+    "n02510455": {
+        "seg_id": 387,
+        "object_name": "giant panda, panda, panda bear, coon bear, ailuropoda melanoleuca",
+        "imagenet_id": 388
+    },
+    "n02514041": {
+        "seg_id": 388,
+        "object_name": "barracouta, snoek",
+        "imagenet_id": 389
+    },
+    "n02526121": {
+        "seg_id": 389,
+        "object_name": "eel",
+        "imagenet_id": 390
+    },
+    "n02536864": {
+        "seg_id": 390,
+        "object_name": "coho, cohoe, coho salmon, blue jack, silver salmon, oncorhynchus kisutch",
+        "imagenet_id": 391
+    },
+    "n02606052": {
+        "seg_id": 391,
+        "object_name": "rock beauty, holocanthus tricolor",
+        "imagenet_id": 392
+    },
+    "n02607072": {
+        "seg_id": 392,
+        "object_name": "anemone fish",
+        "imagenet_id": 393
+    },
+    "n02640242": {
+        "seg_id": 393,
+        "object_name": "sturgeon",
+        "imagenet_id": 394
+    },
+    "n02641379": {
+        "seg_id": 394,
+        "object_name": "gar, garfish, garpike, billfish, lepisosteus osseus",
+        "imagenet_id": 395
+    },
+    "n02643566": {
+        "seg_id": 395,
+        "object_name": "lionfish",
+        "imagenet_id": 396
+    },
+    "n02655020": {
+        "seg_id": 396,
+        "object_name": "puffer, pufferfish, blowfish, globefish",
+        "imagenet_id": 397
+    },
+    "n02666196": {
+        "seg_id": 397,
+        "object_name": "abacus",
+        "imagenet_id": 398
+    },
+    "n02667093": {
+        "seg_id": 398,
+        "object_name": "abaya",
+        "imagenet_id": 399
+    },
+    "n02669723": {
+        "seg_id": 399,
+        "object_name": "academic gown, academic robe, judge's robe",
+        "imagenet_id": 400
+    },
+    "n02672831": {
+        "seg_id": 400,
+        "object_name": "accordion, piano accordion, squeeze box",
+        "imagenet_id": 401
+    },
+    "n02676566": {
+        "seg_id": 401,
+        "object_name": "acoustic guitar",
+        "imagenet_id": 402
+    },
+    "n02687172": {
+        "seg_id": 402,
+        "object_name": "aircraft carrier, carrier, flattop, attack aircraft carrier",
+        "imagenet_id": 403
+    },
+    "n02690373": {
+        "seg_id": 403,
+        "object_name": "airliner",
+        "imagenet_id": 404
+    },
+    "n02692877": {
+        "seg_id": 404,
+        "object_name": "airship, dirigible",
+        "imagenet_id": 405
+    },
+    "n02699494": {
+        "seg_id": 405,
+        "object_name": "altar, communion table, Lord's table",
+        "imagenet_id": 406
+    },
+    "n02701002": {
+        "seg_id": 406,
+        "object_name": "ambulance",
+        "imagenet_id": 407
+    },
+    "n02704792": {
+        "seg_id": 407,
+        "object_name": "amphibian, amphibious vehicle",
+        "imagenet_id": 408
+    },
+    "n02708093": {
+        "seg_id": 408,
+        "object_name": "analog clock",
+        "imagenet_id": 409
+    },
+    "n02727426": {
+        "seg_id": 409,
+        "object_name": "apiary, bee house",
+        "imagenet_id": 410
+    },
+    "n02730930": {
+        "seg_id": 410,
+        "object_name": "apron",
+        "imagenet_id": 411
+    },
+    "n02747177": {
+        "seg_id": 411,
+        "object_name": "ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",
+        "imagenet_id": 412
+    },
+    "n02749479": {
+        "seg_id": 412,
+        "object_name": "assault rifle, assault gun",
+        "imagenet_id": 413
+    },
+    "n02769748": {
+        "seg_id": 413,
+        "object_name": "backpack, back pack, knapsack, packsack, rucksack, haversack",
+        "imagenet_id": 414
+    },
+    "n02776631": {
+        "seg_id": 414,
+        "object_name": "bakery, bakeshop, bakehouse",
+        "imagenet_id": 415
+    },
+    "n02777292": {
+        "seg_id": 415,
+        "object_name": "balance beam, beam",
+        "imagenet_id": 416
+    },
+    "n02782093": {
+        "seg_id": 416,
+        "object_name": "balloon",
+        "imagenet_id": 417
+    },
+    "n02783161": {
+        "seg_id": 417,
+        "object_name": "ballpoint, ballpoint pen, ballpen, biro",
+        "imagenet_id": 418
+    },
+    "n02786058": {
+        "seg_id": 418,
+        "object_name": "band aid",
+        "imagenet_id": 419
+    },
+    "n02787622": {
+        "seg_id": 419,
+        "object_name": "banjo",
+        "imagenet_id": 420
+    },
+    "n02788148": {
+        "seg_id": 420,
+        "object_name": "bannister, banister, balustrade, balusters, handrail",
+        "imagenet_id": 421
+    },
+    "n02790996": {
+        "seg_id": 421,
+        "object_name": "barbell",
+        "imagenet_id": 422
+    },
+    "n02791124": {
+        "seg_id": 422,
+        "object_name": "barber chair",
+        "imagenet_id": 423
+    },
+    "n02791270": {
+        "seg_id": 423,
+        "object_name": "barbershop",
+        "imagenet_id": 424
+    },
+    "n02793495": {
+        "seg_id": 424,
+        "object_name": "barn",
+        "imagenet_id": 425
+    },
+    "n02794156": {
+        "seg_id": 425,
+        "object_name": "barometer",
+        "imagenet_id": 426
+    },
+    "n02795169": {
+        "seg_id": 426,
+        "object_name": "barrel, cask",
+        "imagenet_id": 427
+    },
+    "n02797295": {
+        "seg_id": 427,
+        "object_name": "barrow, garden cart, lawn cart, wheelbarrow",
+        "imagenet_id": 428
+    },
+    "n02799071": {
+        "seg_id": 428,
+        "object_name": "baseball",
+        "imagenet_id": 429
+    },
+    "n02804414": {
+        "seg_id": 429,
+        "object_name": "bassinet",
+        "imagenet_id": 431
+    },
+    "n02804610": {
+        "seg_id": 430,
+        "object_name": "bassoon",
+        "imagenet_id": 432
+    },
+    "n02807133": {
+        "seg_id": 431,
+        "object_name": "bathing cap, swimming cap",
+        "imagenet_id": 433
+    },
+    "n02808304": {
+        "seg_id": 432,
+        "object_name": "bath towel",
+        "imagenet_id": 434
+    },
+    "n02808440": {
+        "seg_id": 433,
+        "object_name": "bathtub, bathing tub, bath, tub",
+        "imagenet_id": 435
+    },
+    "n02814533": {
+        "seg_id": 434,
+        "object_name": "beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",
+        "imagenet_id": 436
+    },
+    "n02814860": {
+        "seg_id": 435,
+        "object_name": "beacon, lighthouse, beacon light, pharos",
+        "imagenet_id": 437
+    },
+    "n02815834": {
+        "seg_id": 436,
+        "object_name": "beaker",
+        "imagenet_id": 438
+    },
+    "n02817516": {
+        "seg_id": 437,
+        "object_name": "bearskin, busby, shako",
+        "imagenet_id": 439
+    },
+    "n02823428": {
+        "seg_id": 438,
+        "object_name": "beer bottle",
+        "imagenet_id": 440
+    },
+    "n02823750": {
+        "seg_id": 439,
+        "object_name": "beer glass",
+        "imagenet_id": 441
+    },
+    "n02825657": {
+        "seg_id": 440,
+        "object_name": "bell cote, bell cot",
+        "imagenet_id": 442
+    },
+    "n02834397": {
+        "seg_id": 441,
+        "object_name": "bib",
+        "imagenet_id": 443
+    },
+    "n02835271": {
+        "seg_id": 442,
+        "object_name": "bicycle-built-for-two, tandem bicycle, tandem",
+        "imagenet_id": 444
+    },
+    "n02837789": {
+        "seg_id": 443,
+        "object_name": "bikini, two-piece",
+        "imagenet_id": 445
+    },
+    "n02840245": {
+        "seg_id": 444,
+        "object_name": "binder, ring-binder",
+        "imagenet_id": 446
+    },
+    "n02841315": {
+        "seg_id": 445,
+        "object_name": "binoculars, field glasses, opera glasses",
+        "imagenet_id": 447
+    },
+    "n02843684": {
+        "seg_id": 446,
+        "object_name": "birdhouse",
+        "imagenet_id": 448
+    },
+    "n02859443": {
+        "seg_id": 447,
+        "object_name": "boathouse",
+        "imagenet_id": 449
+    },
+    "n02860847": {
+        "seg_id": 448,
+        "object_name": "bobsled, bobsleigh, bob",
+        "imagenet_id": 450
+    },
+    "n02865351": {
+        "seg_id": 449,
+        "object_name": "bolo tie, bolo, bola tie, bola",
+        "imagenet_id": 451
+    },
+    "n02869837": {
+        "seg_id": 450,
+        "object_name": "bonnet, poke bonnet",
+        "imagenet_id": 452
+    },
+    "n02870880": {
+        "seg_id": 451,
+        "object_name": "bookcase",
+        "imagenet_id": 453
+    },
+    "n02871525": {
+        "seg_id": 452,
+        "object_name": "bookshop, bookstore, bookstall",
+        "imagenet_id": 454
+    },
+    "n02877765": {
+        "seg_id": 453,
+        "object_name": "bottlecap",
+        "imagenet_id": 455
+    },
+    "n02879718": {
+        "seg_id": 454,
+        "object_name": "bow",
+        "imagenet_id": 456
+    },
+    "n02892201": {
+        "seg_id": 455,
+        "object_name": "brass, memorial tablet, plaque",
+        "imagenet_id": 458
+    },
+    "n02892767": {
+        "seg_id": 456,
+        "object_name": "brassiere, bra, bandeau",
+        "imagenet_id": 459
+    },
+    "n02894605": {
+        "seg_id": 457,
+        "object_name": "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+        "imagenet_id": 460
+    },
+    "n02895154": {
+        "seg_id": 458,
+        "object_name": "breastplate, aegis, egis",
+        "imagenet_id": 461
+    },
+    "n02906734": {
+        "seg_id": 459,
+        "object_name": "broom",
+        "imagenet_id": 462
+    },
+    "n02909870": {
+        "seg_id": 460,
+        "object_name": "bucket, pail",
+        "imagenet_id": 463
+    },
+    "n02910353": {
+        "seg_id": 461,
+        "object_name": "buckle",
+        "imagenet_id": 464
+    },
+    "n02916936": {
+        "seg_id": 462,
+        "object_name": "bulletproof vest",
+        "imagenet_id": 465
+    },
+    "n02917067": {
+        "seg_id": 463,
+        "object_name": "bullet train, bullet",
+        "imagenet_id": 466
+    },
+    "n02927161": {
+        "seg_id": 464,
+        "object_name": "shop, store",
+        "imagenet_id": 467
+    },
+    "n02930766": {
+        "seg_id": 465,
+        "object_name": "cab, hack, taxi, taxicab",
+        "imagenet_id": 468
+    },
+    "n02939185": {
+        "seg_id": 466,
+        "object_name": "caldron, cauldron",
+        "imagenet_id": 469
+    },
+    "n02948072": {
+        "seg_id": 467,
+        "object_name": "candle, taper, wax light",
+        "imagenet_id": 470
+    },
+    "n02950826": {
+        "seg_id": 468,
+        "object_name": "cannon",
+        "imagenet_id": 471
+    },
+    "n02951358": {
+        "seg_id": 469,
+        "object_name": "canoe",
+        "imagenet_id": 472
+    },
+    "n02951585": {
+        "seg_id": 470,
+        "object_name": "can opener, tin opener",
+        "imagenet_id": 473
+    },
+    "n02963159": {
+        "seg_id": 471,
+        "object_name": "cardigan",
+        "imagenet_id": 474
+    },
+    "n02965783": {
+        "seg_id": 472,
+        "object_name": "car mirror",
+        "imagenet_id": 475
+    },
+    "n02966193": {
+        "seg_id": 473,
+        "object_name": "carousel, carrousel, merry-go-round, roundabout, whirligig",
+        "imagenet_id": 476
+    },
+    "n02966687": {
+        "seg_id": 474,
+        "object_name": "carpenter's kit, tool kit",
+        "imagenet_id": 477
+    },
+    "n02971356": {
+        "seg_id": 475,
+        "object_name": "carton",
+        "imagenet_id": 478
+    },
+    "n02974003": {
+        "seg_id": 476,
+        "object_name": "car wheel",
+        "imagenet_id": 479
+    },
+    "n02977058": {
+        "seg_id": 477,
+        "object_name": "cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, atm",
+        "imagenet_id": 480
+    },
+    "n02978881": {
+        "seg_id": 478,
+        "object_name": "cassette",
+        "imagenet_id": 481
+    },
+    "n02979186": {
+        "seg_id": 479,
+        "object_name": "cassette player",
+        "imagenet_id": 482
+    },
+    "n02980441": {
+        "seg_id": 480,
+        "object_name": "castle",
+        "imagenet_id": 483
+    },
+    "n02981792": {
+        "seg_id": 481,
+        "object_name": "catamaran",
+        "imagenet_id": 484
+    },
+    "n02988304": {
+        "seg_id": 482,
+        "object_name": "cd player",
+        "imagenet_id": 485
+    },
+    "n02992529": {
+        "seg_id": 483,
+        "object_name": "cellular telephone, cellular phone, cellphone, cell, mobile phone",
+        "imagenet_id": 487
+    },
+    "n02999410": {
+        "seg_id": 484,
+        "object_name": "chain",
+        "imagenet_id": 488
+    },
+    "n03000134": {
+        "seg_id": 485,
+        "object_name": "chainlink fence",
+        "imagenet_id": 489
+    },
+    "n03000247": {
+        "seg_id": 486,
+        "object_name": "chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",
+        "imagenet_id": 490
+    },
+    "n03000684": {
+        "seg_id": 487,
+        "object_name": "chain saw, chainsaw",
+        "imagenet_id": 491
+    },
+    "n03014705": {
+        "seg_id": 488,
+        "object_name": "chest",
+        "imagenet_id": 492
+    },
+    "n03016953": {
+        "seg_id": 489,
+        "object_name": "chiffonier, commode",
+        "imagenet_id": 493
+    },
+    "n03017168": {
+        "seg_id": 490,
+        "object_name": "chime, bell, gong",
+        "imagenet_id": 494
+    },
+    "n03018349": {
+        "seg_id": 491,
+        "object_name": "china cabinet, china closet",
+        "imagenet_id": 495
+    },
+    "n03026506": {
+        "seg_id": 492,
+        "object_name": "christmas stocking",
+        "imagenet_id": 496
+    },
+    "n03028079": {
+        "seg_id": 493,
+        "object_name": "church, church building",
+        "imagenet_id": 497
+    },
+    "n03032252": {
+        "seg_id": 494,
+        "object_name": "cinema, movie theater, movie theatre, movie house, picture palace",
+        "imagenet_id": 498
+    },
+    "n03041632": {
+        "seg_id": 495,
+        "object_name": "cleaver, meat cleaver, chopper",
+        "imagenet_id": 499
+    },
+    "n03042490": {
+        "seg_id": 496,
+        "object_name": "cliff dwelling",
+        "imagenet_id": 500
+    },
+    "n03045698": {
+        "seg_id": 497,
+        "object_name": "cloak",
+        "imagenet_id": 501
+    },
+    "n03047690": {
+        "seg_id": 498,
+        "object_name": "clog, geta, patten, sabot",
+        "imagenet_id": 502
+    },
+    "n03062245": {
+        "seg_id": 499,
+        "object_name": "cocktail shaker",
+        "imagenet_id": 503
+    },
+    "n03063599": {
+        "seg_id": 500,
+        "object_name": "coffee mug",
+        "imagenet_id": 504
+    },
+    "n03063689": {
+        "seg_id": 501,
+        "object_name": "coffeepot",
+        "imagenet_id": 505
+    },
+    "n03065424": {
+        "seg_id": 502,
+        "object_name": "coil, spiral, volute, whorl, helix",
+        "imagenet_id": 506
+    },
+    "n03075370": {
+        "seg_id": 503,
+        "object_name": "combination lock",
+        "imagenet_id": 507
+    },
+    "n03085013": {
+        "seg_id": 504,
+        "object_name": "computer keyboard, keypad",
+        "imagenet_id": 508
+    },
+    "n03089624": {
+        "seg_id": 505,
+        "object_name": "confectionery, confectionary, candy store",
+        "imagenet_id": 509
+    },
+    "n03095699": {
+        "seg_id": 506,
+        "object_name": "container ship, containership, container vessel",
+        "imagenet_id": 510
+    },
+    "n03100240": {
+        "seg_id": 507,
+        "object_name": "convertible",
+        "imagenet_id": 511
+    },
+    "n03109150": {
+        "seg_id": 508,
+        "object_name": "corkscrew, bottle screw",
+        "imagenet_id": 512
+    },
+    "n03124043": {
+        "seg_id": 509,
+        "object_name": "cowboy boot",
+        "imagenet_id": 514
+    },
+    "n03124170": {
+        "seg_id": 510,
+        "object_name": "cowboy hat, ten-gallon hat",
+        "imagenet_id": 515
+    },
+    "n03125729": {
+        "seg_id": 511,
+        "object_name": "cradle",
+        "imagenet_id": 516
+    },
+    "n03126707": {
+        "seg_id": 512,
+        "object_name": "crane",
+        "imagenet_id": 517
+    },
+    "n03127747": {
+        "seg_id": 513,
+        "object_name": "crash helmet",
+        "imagenet_id": 518
+    },
+    "n03127925": {
+        "seg_id": 514,
+        "object_name": "crate",
+        "imagenet_id": 519
+    },
+    "n03131574": {
+        "seg_id": 515,
+        "object_name": "crib, cot",
+        "imagenet_id": 520
+    },
+    "n03133878": {
+        "seg_id": 516,
+        "object_name": "crock pot",
+        "imagenet_id": 521
+    },
+    "n03134739": {
+        "seg_id": 517,
+        "object_name": "croquet ball",
+        "imagenet_id": 522
+    },
+    "n03141823": {
+        "seg_id": 518,
+        "object_name": "crutch",
+        "imagenet_id": 523
+    },
+    "n03146219": {
+        "seg_id": 519,
+        "object_name": "cuirass",
+        "imagenet_id": 524
+    },
+    "n03160309": {
+        "seg_id": 520,
+        "object_name": "dam, dike, dyke",
+        "imagenet_id": 525
+    },
+    "n03179701": {
+        "seg_id": 521,
+        "object_name": "desk",
+        "imagenet_id": 526
+    },
+    "n03180011": {
+        "seg_id": 522,
+        "object_name": "desktop computer",
+        "imagenet_id": 527
+    },
+    "n03187595": {
+        "seg_id": 523,
+        "object_name": "dial telephone, dial phone",
+        "imagenet_id": 528
+    },
+    "n03188531": {
+        "seg_id": 524,
+        "object_name": "diaper, nappy, napkin",
+        "imagenet_id": 529
+    },
+    "n03196217": {
+        "seg_id": 525,
+        "object_name": "digital clock",
+        "imagenet_id": 530
+    },
+    "n03197337": {
+        "seg_id": 526,
+        "object_name": "digital watch",
+        "imagenet_id": 531
+    },
+    "n03201208": {
+        "seg_id": 527,
+        "object_name": "dining table, board",
+        "imagenet_id": 532
+    },
+    "n03207743": {
+        "seg_id": 528,
+        "object_name": "dishrag, dishcloth",
+        "imagenet_id": 533
+    },
+    "n03207941": {
+        "seg_id": 529,
+        "object_name": "dishwasher, dish washer, dishwashing machine",
+        "imagenet_id": 534
+    },
+    "n03208938": {
+        "seg_id": 530,
+        "object_name": "disk brake, disc brake",
+        "imagenet_id": 535
+    },
+    "n03216828": {
+        "seg_id": 531,
+        "object_name": "dock, dockage, docking facility",
+        "imagenet_id": 536
+    },
+    "n03218198": {
+        "seg_id": 532,
+        "object_name": "dogsled, dog sled, dog sleigh",
+        "imagenet_id": 537
+    },
+    "n03220513": {
+        "seg_id": 533,
+        "object_name": "dome",
+        "imagenet_id": 538
+    },
+    "n03223299": {
+        "seg_id": 534,
+        "object_name": "doormat, welcome mat",
+        "imagenet_id": 539
+    },
+    "n03240683": {
+        "seg_id": 535,
+        "object_name": "drilling platform, offshore rig",
+        "imagenet_id": 540
+    },
+    "n03249569": {
+        "seg_id": 536,
+        "object_name": "drum, membranophone, tympan",
+        "imagenet_id": 541
+    },
+    "n03250847": {
+        "seg_id": 537,
+        "object_name": "drumstick",
+        "imagenet_id": 542
+    },
+    "n03255030": {
+        "seg_id": 538,
+        "object_name": "dumbbell",
+        "imagenet_id": 543
+    },
+    "n03259280": {
+        "seg_id": 539,
+        "object_name": "dutch oven",
+        "imagenet_id": 544
+    },
+    "n03271574": {
+        "seg_id": 540,
+        "object_name": "electric fan, blower",
+        "imagenet_id": 545
+    },
+    "n03272010": {
+        "seg_id": 541,
+        "object_name": "electric guitar",
+        "imagenet_id": 546
+    },
+    "n03272562": {
+        "seg_id": 542,
+        "object_name": "electric locomotive",
+        "imagenet_id": 547
+    },
+    "n03290653": {
+        "seg_id": 543,
+        "object_name": "entertainment center",
+        "imagenet_id": 548
+    },
+    "n03291819": {
+        "seg_id": 544,
+        "object_name": "envelope",
+        "imagenet_id": 549
+    },
+    "n03297495": {
+        "seg_id": 545,
+        "object_name": "espresso maker",
+        "imagenet_id": 550
+    },
+    "n03314780": {
+        "seg_id": 546,
+        "object_name": "face powder",
+        "imagenet_id": 551
+    },
+    "n03325584": {
+        "seg_id": 547,
+        "object_name": "feather boa, boa",
+        "imagenet_id": 552
+    },
+    "n03337140": {
+        "seg_id": 548,
+        "object_name": "file, file cabinet, filing cabinet",
+        "imagenet_id": 553
+    },
+    "n03344393": {
+        "seg_id": 549,
+        "object_name": "fireboat",
+        "imagenet_id": 554
+    },
+    "n03345487": {
+        "seg_id": 550,
+        "object_name": "fire engine, fire truck",
+        "imagenet_id": 555
+    },
+    "n03347037": {
+        "seg_id": 551,
+        "object_name": "fire screen, fireguard",
+        "imagenet_id": 556
+    },
+    "n03355925": {
+        "seg_id": 552,
+        "object_name": "flagpole, flagstaff",
+        "imagenet_id": 557
+    },
+    "n03372029": {
+        "seg_id": 553,
+        "object_name": "flute, transverse flute",
+        "imagenet_id": 558
+    },
+    "n03376595": {
+        "seg_id": 554,
+        "object_name": "folding chair",
+        "imagenet_id": 559
+    },
+    "n03379051": {
+        "seg_id": 555,
+        "object_name": "football helmet",
+        "imagenet_id": 560
+    },
+    "n03384352": {
+        "seg_id": 556,
+        "object_name": "forklift",
+        "imagenet_id": 561
+    },
+    "n03388043": {
+        "seg_id": 557,
+        "object_name": "fountain",
+        "imagenet_id": 562
+    },
+    "n03388183": {
+        "seg_id": 558,
+        "object_name": "fountain pen",
+        "imagenet_id": 563
+    },
+    "n03388549": {
+        "seg_id": 559,
+        "object_name": "four-poster",
+        "imagenet_id": 564
+    },
+    "n03393912": {
+        "seg_id": 560,
+        "object_name": "freight car",
+        "imagenet_id": 565
+    },
+    "n03394916": {
+        "seg_id": 561,
+        "object_name": "french horn, horn",
+        "imagenet_id": 566
+    },
+    "n03400231": {
+        "seg_id": 562,
+        "object_name": "frying pan, frypan, skillet",
+        "imagenet_id": 567
+    },
+    "n03404251": {
+        "seg_id": 563,
+        "object_name": "fur coat",
+        "imagenet_id": 568
+    },
+    "n03417042": {
+        "seg_id": 564,
+        "object_name": "garbage truck, dustcart",
+        "imagenet_id": 569
+    },
+    "n03424325": {
+        "seg_id": 565,
+        "object_name": "gasmask, respirator, gas helmet",
+        "imagenet_id": 570
+    },
+    "n03425413": {
+        "seg_id": 566,
+        "object_name": "gas pump, gasoline pump, petrol pump, island dispenser",
+        "imagenet_id": 571
+    },
+    "n03443371": {
+        "seg_id": 567,
+        "object_name": "goblet",
+        "imagenet_id": 572
+    },
+    "n03444034": {
+        "seg_id": 568,
+        "object_name": "go-kart",
+        "imagenet_id": 573
+    },
+    "n03445777": {
+        "seg_id": 569,
+        "object_name": "golf ball",
+        "imagenet_id": 574
+    },
+    "n03445924": {
+        "seg_id": 570,
+        "object_name": "golfcart, golf cart",
+        "imagenet_id": 575
+    },
+    "n03447447": {
+        "seg_id": 571,
+        "object_name": "gondola",
+        "imagenet_id": 576
+    },
+    "n03447721": {
+        "seg_id": 572,
+        "object_name": "gong, tam-tam",
+        "imagenet_id": 577
+    },
+    "n03450230": {
+        "seg_id": 573,
+        "object_name": "gown",
+        "imagenet_id": 578
+    },
+    "n03452741": {
+        "seg_id": 574,
+        "object_name": "grand piano, grand",
+        "imagenet_id": 579
+    },
+    "n03457902": {
+        "seg_id": 575,
+        "object_name": "greenhouse, nursery, glasshouse",
+        "imagenet_id": 580
+    },
+    "n03459775": {
+        "seg_id": 576,
+        "object_name": "grille, radiator grille",
+        "imagenet_id": 581
+    },
+    "n03461385": {
+        "seg_id": 577,
+        "object_name": "grocery store, grocery, food market, market",
+        "imagenet_id": 582
+    },
+    "n03467068": {
+        "seg_id": 578,
+        "object_name": "guillotine",
+        "imagenet_id": 583
+    },
+    "n03476684": {
+        "seg_id": 579,
+        "object_name": "hair slide",
+        "imagenet_id": 584
+    },
+    "n03476991": {
+        "seg_id": 580,
+        "object_name": "hair spray",
+        "imagenet_id": 585
+    },
+    "n03478589": {
+        "seg_id": 581,
+        "object_name": "half track",
+        "imagenet_id": 586
+    },
+    "n03481172": {
+        "seg_id": 582,
+        "object_name": "hammer",
+        "imagenet_id": 587
+    },
+    "n03482405": {
+        "seg_id": 583,
+        "object_name": "hamper",
+        "imagenet_id": 588
+    },
+    "n03483316": {
+        "seg_id": 584,
+        "object_name": "hand blower, blow dryer, blow drier, hair dryer, hair drier",
+        "imagenet_id": 589
+    },
+    "n03485407": {
+        "seg_id": 585,
+        "object_name": "hand-held computer, hand-held microcomputer",
+        "imagenet_id": 590
+    },
+    "n03485794": {
+        "seg_id": 586,
+        "object_name": "handkerchief, hankie, hanky, hankey",
+        "imagenet_id": 591
+    },
+    "n03492542": {
+        "seg_id": 587,
+        "object_name": "hard disc, hard disk, fixed disk",
+        "imagenet_id": 592
+    },
+    "n03494278": {
+        "seg_id": 588,
+        "object_name": "harmonica, mouth organ, harp, mouth harp",
+        "imagenet_id": 593
+    },
+    "n03495258": {
+        "seg_id": 589,
+        "object_name": "harp",
+        "imagenet_id": 594
+    },
+    "n03496892": {
+        "seg_id": 590,
+        "object_name": "harvester, reaper",
+        "imagenet_id": 595
+    },
+    "n03498962": {
+        "seg_id": 591,
+        "object_name": "hatchet",
+        "imagenet_id": 596
+    },
+    "n03527444": {
+        "seg_id": 592,
+        "object_name": "holster",
+        "imagenet_id": 597
+    },
+    "n03529860": {
+        "seg_id": 593,
+        "object_name": "home theater, home theatre",
+        "imagenet_id": 598
+    },
+    "n03530642": {
+        "seg_id": 594,
+        "object_name": "honeycomb",
+        "imagenet_id": 599
+    },
+    "n03532672": {
+        "seg_id": 595,
+        "object_name": "hook, claw",
+        "imagenet_id": 600
+    },
+    "n03534580": {
+        "seg_id": 596,
+        "object_name": "hoopskirt, crinoline",
+        "imagenet_id": 601
+    },
+    "n03535780": {
+        "seg_id": 597,
+        "object_name": "horizontal bar, high bar",
+        "imagenet_id": 602
+    },
+    "n03538406": {
+        "seg_id": 598,
+        "object_name": "horse cart, horse-cart",
+        "imagenet_id": 603
+    },
+    "n03544143": {
+        "seg_id": 599,
+        "object_name": "hourglass",
+        "imagenet_id": 604
+    },
+    "n03584254": {
+        "seg_id": 600,
+        "object_name": "ipod",
+        "imagenet_id": 605
+    },
+    "n03584829": {
+        "seg_id": 601,
+        "object_name": "iron, smoothing iron",
+        "imagenet_id": 606
+    },
+    "n03590841": {
+        "seg_id": 602,
+        "object_name": "jack-o'-lantern",
+        "imagenet_id": 607
+    },
+    "n03594734": {
+        "seg_id": 603,
+        "object_name": "jean, blue jean, denim",
+        "imagenet_id": 608
+    },
+    "n03594945": {
+        "seg_id": 604,
+        "object_name": "jeep, landrover",
+        "imagenet_id": 609
+    },
+    "n03595614": {
+        "seg_id": 605,
+        "object_name": "jersey, t-shirt, tee shirt",
+        "imagenet_id": 610
+    },
+    "n03598930": {
+        "seg_id": 606,
+        "object_name": "jigsaw puzzle",
+        "imagenet_id": 611
+    },
+    "n03599486": {
+        "seg_id": 607,
+        "object_name": "jinrikisha, ricksha, rickshaw",
+        "imagenet_id": 612
+    },
+    "n03602883": {
+        "seg_id": 608,
+        "object_name": "joystick",
+        "imagenet_id": 613
+    },
+    "n03617480": {
+        "seg_id": 609,
+        "object_name": "kimono",
+        "imagenet_id": 614
+    },
+    "n03623198": {
+        "seg_id": 610,
+        "object_name": "knee pad",
+        "imagenet_id": 615
+    },
+    "n03627232": {
+        "seg_id": 611,
+        "object_name": "knot",
+        "imagenet_id": 616
+    },
+    "n03630383": {
+        "seg_id": 612,
+        "object_name": "lab coat, laboratory coat",
+        "imagenet_id": 617
+    },
+    "n03633091": {
+        "seg_id": 613,
+        "object_name": "ladle",
+        "imagenet_id": 618
+    },
+    "n03637318": {
+        "seg_id": 614,
+        "object_name": "lampshade, lamp shade",
+        "imagenet_id": 619
+    },
+    "n03642806": {
+        "seg_id": 615,
+        "object_name": "laptop, laptop computer",
+        "imagenet_id": 620
+    },
+    "n03649909": {
+        "seg_id": 616,
+        "object_name": "lawn mower, mower",
+        "imagenet_id": 621
+    },
+    "n03657121": {
+        "seg_id": 617,
+        "object_name": "lens cap, lens cover",
+        "imagenet_id": 622
+    },
+    "n03658185": {
+        "seg_id": 618,
+        "object_name": "letter opener, paper knife, paperknife",
+        "imagenet_id": 623
+    },
+    "n03661043": {
+        "seg_id": 619,
+        "object_name": "library",
+        "imagenet_id": 624
+    },
+    "n03662601": {
+        "seg_id": 620,
+        "object_name": "lifeboat",
+        "imagenet_id": 625
+    },
+    "n03666591": {
+        "seg_id": 621,
+        "object_name": "lighter, light, igniter, ignitor",
+        "imagenet_id": 626
+    },
+    "n03670208": {
+        "seg_id": 622,
+        "object_name": "limousine, limo",
+        "imagenet_id": 627
+    },
+    "n03673027": {
+        "seg_id": 623,
+        "object_name": "liner, ocean liner",
+        "imagenet_id": 628
+    },
+    "n03676483": {
+        "seg_id": 624,
+        "object_name": "lipstick, lip rouge",
+        "imagenet_id": 629
+    },
+    "n03680355": {
+        "seg_id": 625,
+        "object_name": "loafer",
+        "imagenet_id": 630
+    },
+    "n03690938": {
+        "seg_id": 626,
+        "object_name": "lotion",
+        "imagenet_id": 631
+    },
+    "n03691459": {
+        "seg_id": 627,
+        "object_name": "loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",
+        "imagenet_id": 632
+    },
+    "n03692522": {
+        "seg_id": 628,
+        "object_name": "loupe, jeweler's loupe",
+        "imagenet_id": 633
+    },
+    "n03697007": {
+        "seg_id": 629,
+        "object_name": "lumbermill, sawmill",
+        "imagenet_id": 634
+    },
+    "n03706229": {
+        "seg_id": 630,
+        "object_name": "magnetic compass",
+        "imagenet_id": 635
+    },
+    "n03709823": {
+        "seg_id": 631,
+        "object_name": "mailbag, postbag",
+        "imagenet_id": 636
+    },
+    "n03710193": {
+        "seg_id": 632,
+        "object_name": "postbox, mailbox, letter box",
+        "imagenet_id": 637
+    },
+    "n03710637": {
+        "seg_id": 633,
+        "object_name": "maillot",
+        "imagenet_id": 638
+    },
+    "n03710721": {
+        "seg_id": 634,
+        "object_name": "maillot, tank suit",
+        "imagenet_id": 639
+    },
+    "n03717622": {
+        "seg_id": 635,
+        "object_name": "manhole",
+        "imagenet_id": 640
+    },
+    "n03720891": {
+        "seg_id": 636,
+        "object_name": "maraca",
+        "imagenet_id": 641
+    },
+    "n03721384": {
+        "seg_id": 637,
+        "object_name": "marimba, xylophone",
+        "imagenet_id": 642
+    },
+    "n03724870": {
+        "seg_id": 638,
+        "object_name": "mask",
+        "imagenet_id": 643
+    },
+    "n03729826": {
+        "seg_id": 639,
+        "object_name": "matchstick",
+        "imagenet_id": 644
+    },
+    "n03733131": {
+        "seg_id": 640,
+        "object_name": "maypole",
+        "imagenet_id": 645
+    },
+    "n03733281": {
+        "seg_id": 641,
+        "object_name": "maze, labyrinth",
+        "imagenet_id": 646
+    },
+    "n03733805": {
+        "seg_id": 642,
+        "object_name": "measuring cup",
+        "imagenet_id": 647
+    },
+    "n03742115": {
+        "seg_id": 643,
+        "object_name": "medicine chest, medicine cabinet",
+        "imagenet_id": 648
+    },
+    "n03743016": {
+        "seg_id": 644,
+        "object_name": "megalith, megalithic structure",
+        "imagenet_id": 649
+    },
+    "n03759954": {
+        "seg_id": 645,
+        "object_name": "microphone, mike",
+        "imagenet_id": 650
+    },
+    "n03761084": {
+        "seg_id": 646,
+        "object_name": "microwave, microwave oven",
+        "imagenet_id": 651
+    },
+    "n03763968": {
+        "seg_id": 647,
+        "object_name": "military uniform",
+        "imagenet_id": 652
+    },
+    "n03764736": {
+        "seg_id": 648,
+        "object_name": "milk can",
+        "imagenet_id": 653
+    },
+    "n03769881": {
+        "seg_id": 649,
+        "object_name": "minibus",
+        "imagenet_id": 654
+    },
+    "n03770439": {
+        "seg_id": 650,
+        "object_name": "miniskirt, mini",
+        "imagenet_id": 655
+    },
+    "n03770679": {
+        "seg_id": 651,
+        "object_name": "minivan",
+        "imagenet_id": 656
+    },
+    "n03773504": {
+        "seg_id": 652,
+        "object_name": "missile",
+        "imagenet_id": 657
+    },
+    "n03775071": {
+        "seg_id": 653,
+        "object_name": "mitten",
+        "imagenet_id": 658
+    },
+    "n03775546": {
+        "seg_id": 654,
+        "object_name": "mixing bowl",
+        "imagenet_id": 659
+    },
+    "n03776460": {
+        "seg_id": 655,
+        "object_name": "mobile home, manufactured home",
+        "imagenet_id": 660
+    },
+    "n03777568": {
+        "seg_id": 656,
+        "object_name": "model t",
+        "imagenet_id": 661
+    },
+    "n03777754": {
+        "seg_id": 657,
+        "object_name": "modem",
+        "imagenet_id": 662
+    },
+    "n03781244": {
+        "seg_id": 658,
+        "object_name": "monastery",
+        "imagenet_id": 663
+    },
+    "n03782006": {
+        "seg_id": 659,
+        "object_name": "monitor, monitoring device",
+        "imagenet_id": 664
+    },
+    "n03785016": {
+        "seg_id": 660,
+        "object_name": "moped",
+        "imagenet_id": 665
+    },
+    "n03786901": {
+        "seg_id": 661,
+        "object_name": "mortar",
+        "imagenet_id": 666
+    },
+    "n03787032": {
+        "seg_id": 662,
+        "object_name": "mortarboard",
+        "imagenet_id": 667
+    },
+    "n03788195": {
+        "seg_id": 663,
+        "object_name": "mosque",
+        "imagenet_id": 668
+    },
+    "n03788365": {
+        "seg_id": 664,
+        "object_name": "mosquito net",
+        "imagenet_id": 669
+    },
+    "n03791053": {
+        "seg_id": 665,
+        "object_name": "motor scooter, scooter",
+        "imagenet_id": 670
+    },
+    "n03792782": {
+        "seg_id": 666,
+        "object_name": "mountain bike, all-terrain bike, off-roader",
+        "imagenet_id": 671
+    },
+    "n03792972": {
+        "seg_id": 667,
+        "object_name": "mountain tent",
+        "imagenet_id": 672
+    },
+    "n03793489": {
+        "seg_id": 668,
+        "object_name": "mouse, computer mouse",
+        "imagenet_id": 673
+    },
+    "n03794056": {
+        "seg_id": 669,
+        "object_name": "mousetrap",
+        "imagenet_id": 674
+    },
+    "n03796401": {
+        "seg_id": 670,
+        "object_name": "moving van",
+        "imagenet_id": 675
+    },
+    "n03803284": {
+        "seg_id": 671,
+        "object_name": "muzzle",
+        "imagenet_id": 676
+    },
+    "n03804744": {
+        "seg_id": 672,
+        "object_name": "nail",
+        "imagenet_id": 677
+    },
+    "n03814639": {
+        "seg_id": 673,
+        "object_name": "neck brace",
+        "imagenet_id": 678
+    },
+    "n03814906": {
+        "seg_id": 674,
+        "object_name": "necklace",
+        "imagenet_id": 679
+    },
+    "n03825788": {
+        "seg_id": 675,
+        "object_name": "nipple",
+        "imagenet_id": 680
+    },
+    "n03832673": {
+        "seg_id": 676,
+        "object_name": "notebook, notebook computer",
+        "imagenet_id": 681
+    },
+    "n03837869": {
+        "seg_id": 677,
+        "object_name": "obelisk",
+        "imagenet_id": 682
+    },
+    "n03838899": {
+        "seg_id": 678,
+        "object_name": "oboe, hautboy, hautbois",
+        "imagenet_id": 683
+    },
+    "n03840681": {
+        "seg_id": 679,
+        "object_name": "ocarina, sweet potato",
+        "imagenet_id": 684
+    },
+    "n03841143": {
+        "seg_id": 680,
+        "object_name": "odometer, hodometer, mileometer, milometer",
+        "imagenet_id": 685
+    },
+    "n03843555": {
+        "seg_id": 681,
+        "object_name": "oil filter",
+        "imagenet_id": 686
+    },
+    "n03854065": {
+        "seg_id": 682,
+        "object_name": "organ, pipe organ",
+        "imagenet_id": 687
+    },
+    "n03857828": {
+        "seg_id": 683,
+        "object_name": "oscilloscope, scope, cathode-ray oscilloscope, cro",
+        "imagenet_id": 688
+    },
+    "n03866082": {
+        "seg_id": 684,
+        "object_name": "overskirt",
+        "imagenet_id": 689
+    },
+    "n03868242": {
+        "seg_id": 685,
+        "object_name": "oxcart",
+        "imagenet_id": 690
+    },
+    "n03868863": {
+        "seg_id": 686,
+        "object_name": "oxygen mask",
+        "imagenet_id": 691
+    },
+    "n03871628": {
+        "seg_id": 687,
+        "object_name": "packet",
+        "imagenet_id": 692
+    },
+    "n03873416": {
+        "seg_id": 688,
+        "object_name": "paddle, boat paddle",
+        "imagenet_id": 693
+    },
+    "n03874293": {
+        "seg_id": 689,
+        "object_name": "paddlewheel, paddle wheel",
+        "imagenet_id": 694
+    },
+    "n03874599": {
+        "seg_id": 690,
+        "object_name": "padlock",
+        "imagenet_id": 695
+    },
+    "n03876231": {
+        "seg_id": 691,
+        "object_name": "paintbrush",
+        "imagenet_id": 696
+    },
+    "n03877472": {
+        "seg_id": 692,
+        "object_name": "pajama, pyjama, pj's, jammies",
+        "imagenet_id": 697
+    },
+    "n03877845": {
+        "seg_id": 693,
+        "object_name": "palace",
+        "imagenet_id": 698
+    },
+    "n03884397": {
+        "seg_id": 694,
+        "object_name": "panpipe, pandean pipe, syrinx",
+        "imagenet_id": 699
+    },
+    "n03887697": {
+        "seg_id": 695,
+        "object_name": "paper towel",
+        "imagenet_id": 700
+    },
+    "n03888257": {
+        "seg_id": 696,
+        "object_name": "parachute, chute",
+        "imagenet_id": 701
+    },
+    "n03888605": {
+        "seg_id": 697,
+        "object_name": "parallel bars, bars",
+        "imagenet_id": 702
+    },
+    "n03891251": {
+        "seg_id": 698,
+        "object_name": "park bench",
+        "imagenet_id": 703
+    },
+    "n03891332": {
+        "seg_id": 699,
+        "object_name": "parking meter",
+        "imagenet_id": 704
+    },
+    "n03895866": {
+        "seg_id": 700,
+        "object_name": "passenger car, coach, carriage",
+        "imagenet_id": 705
+    },
+    "n03899768": {
+        "seg_id": 701,
+        "object_name": "patio, terrace",
+        "imagenet_id": 706
+    },
+    "n03902125": {
+        "seg_id": 702,
+        "object_name": "pay-phone, pay-station",
+        "imagenet_id": 707
+    },
+    "n03903868": {
+        "seg_id": 703,
+        "object_name": "pedestal, plinth, footstall",
+        "imagenet_id": 708
+    },
+    "n03908618": {
+        "seg_id": 704,
+        "object_name": "pencil box, pencil case",
+        "imagenet_id": 709
+    },
+    "n03908714": {
+        "seg_id": 705,
+        "object_name": "pencil sharpener",
+        "imagenet_id": 710
+    },
+    "n03916031": {
+        "seg_id": 706,
+        "object_name": "perfume, essence",
+        "imagenet_id": 711
+    },
+    "n03920288": {
+        "seg_id": 707,
+        "object_name": "petri dish",
+        "imagenet_id": 712
+    },
+    "n03924679": {
+        "seg_id": 708,
+        "object_name": "photocopier",
+        "imagenet_id": 713
+    },
+    "n03929660": {
+        "seg_id": 709,
+        "object_name": "pick, plectrum, plectron",
+        "imagenet_id": 714
+    },
+    "n03929855": {
+        "seg_id": 710,
+        "object_name": "pickelhaube",
+        "imagenet_id": 715
+    },
+    "n03930313": {
+        "seg_id": 711,
+        "object_name": "picket fence, paling",
+        "imagenet_id": 716
+    },
+    "n03930630": {
+        "seg_id": 712,
+        "object_name": "pickup, pickup truck",
+        "imagenet_id": 717
+    },
+    "n03933933": {
+        "seg_id": 713,
+        "object_name": "pier",
+        "imagenet_id": 718
+    },
+    "n03935335": {
+        "seg_id": 714,
+        "object_name": "piggy bank, penny bank",
+        "imagenet_id": 719
+    },
+    "n03937543": {
+        "seg_id": 715,
+        "object_name": "pill bottle",
+        "imagenet_id": 720
+    },
+    "n03938244": {
+        "seg_id": 716,
+        "object_name": "pillow",
+        "imagenet_id": 721
+    },
+    "n03942813": {
+        "seg_id": 717,
+        "object_name": "ping-pong ball",
+        "imagenet_id": 722
+    },
+    "n03944341": {
+        "seg_id": 718,
+        "object_name": "pinwheel",
+        "imagenet_id": 723
+    },
+    "n03947888": {
+        "seg_id": 719,
+        "object_name": "pirate, pirate ship",
+        "imagenet_id": 724
+    },
+    "n03950228": {
+        "seg_id": 720,
+        "object_name": "pitcher, ewer",
+        "imagenet_id": 725
+    },
+    "n03954731": {
+        "seg_id": 721,
+        "object_name": "plane, carpenter's plane, woodworking plane",
+        "imagenet_id": 726
+    },
+    "n03956157": {
+        "seg_id": 722,
+        "object_name": "planetarium",
+        "imagenet_id": 727
+    },
+    "n03958227": {
+        "seg_id": 723,
+        "object_name": "plastic bag",
+        "imagenet_id": 728
+    },
+    "n03961711": {
+        "seg_id": 724,
+        "object_name": "plate rack",
+        "imagenet_id": 729
+    },
+    "n03967562": {
+        "seg_id": 725,
+        "object_name": "plow, plough",
+        "imagenet_id": 730
+    },
+    "n03970156": {
+        "seg_id": 726,
+        "object_name": "plunger, plumber's helper",
+        "imagenet_id": 731
+    },
+    "n03976467": {
+        "seg_id": 727,
+        "object_name": "polaroid camera, polaroid land camera",
+        "imagenet_id": 732
+    },
+    "n03976657": {
+        "seg_id": 728,
+        "object_name": "pole",
+        "imagenet_id": 733
+    },
+    "n03977966": {
+        "seg_id": 729,
+        "object_name": "police van, police wagon, paddy wagon, patrol wagon, wagon, black maria",
+        "imagenet_id": 734
+    },
+    "n03980874": {
+        "seg_id": 730,
+        "object_name": "poncho",
+        "imagenet_id": 735
+    },
+    "n03982430": {
+        "seg_id": 731,
+        "object_name": "pool table, billiard table, snooker table",
+        "imagenet_id": 736
+    },
+    "n03983396": {
+        "seg_id": 732,
+        "object_name": "pop bottle, soda bottle",
+        "imagenet_id": 737
+    },
+    "n03991062": {
+        "seg_id": 733,
+        "object_name": "pot, flowerpot",
+        "imagenet_id": 738
+    },
+    "n03992509": {
+        "seg_id": 734,
+        "object_name": "potter's wheel",
+        "imagenet_id": 739
+    },
+    "n03995372": {
+        "seg_id": 735,
+        "object_name": "power drill",
+        "imagenet_id": 740
+    },
+    "n03998194": {
+        "seg_id": 736,
+        "object_name": "prayer rug, prayer mat",
+        "imagenet_id": 741
+    },
+    "n04004767": {
+        "seg_id": 737,
+        "object_name": "printer",
+        "imagenet_id": 742
+    },
+    "n04005630": {
+        "seg_id": 738,
+        "object_name": "prison, prison house",
+        "imagenet_id": 743
+    },
+    "n04008634": {
+        "seg_id": 739,
+        "object_name": "projectile, missile",
+        "imagenet_id": 744
+    },
+    "n04009552": {
+        "seg_id": 740,
+        "object_name": "projector",
+        "imagenet_id": 745
+    },
+    "n04019541": {
+        "seg_id": 741,
+        "object_name": "puck, hockey puck",
+        "imagenet_id": 746
+    },
+    "n04023962": {
+        "seg_id": 742,
+        "object_name": "punching bag, punch bag, punching ball, punchball",
+        "imagenet_id": 747
+    },
+    "n04026417": {
+        "seg_id": 743,
+        "object_name": "bag, handbag, pocketbook, purse",
+        "imagenet_id": 748
+    },
+    "n04033901": {
+        "seg_id": 744,
+        "object_name": "quill, quill pen",
+        "imagenet_id": 749
+    },
+    "n04033995": {
+        "seg_id": 745,
+        "object_name": "quilt, comforter, comfort, puff",
+        "imagenet_id": 750
+    },
+    "n04037443": {
+        "seg_id": 746,
+        "object_name": "racer, race car, racing car",
+        "imagenet_id": 751
+    },
+    "n04040759": {
+        "seg_id": 747,
+        "object_name": "radiator",
+        "imagenet_id": 753
+    },
+    "n04041544": {
+        "seg_id": 748,
+        "object_name": "radio, wireless",
+        "imagenet_id": 754
+    },
+    "n04044716": {
+        "seg_id": 749,
+        "object_name": "radio telescope, radio reflector",
+        "imagenet_id": 755
+    },
+    "n04049303": {
+        "seg_id": 750,
+        "object_name": "rain barrel",
+        "imagenet_id": 756
+    },
+    "n04065272": {
+        "seg_id": 751,
+        "object_name": "recreational vehicle, rv, r v",
+        "imagenet_id": 757
+    },
+    "n04067472": {
+        "seg_id": 752,
+        "object_name": "reel",
+        "imagenet_id": 758
+    },
+    "n04069434": {
+        "seg_id": 753,
+        "object_name": "reflex camera",
+        "imagenet_id": 759
+    },
+    "n04070727": {
+        "seg_id": 754,
+        "object_name": "refrigerator, icebox",
+        "imagenet_id": 760
+    },
+    "n04074963": {
+        "seg_id": 755,
+        "object_name": "remote control, remote",
+        "imagenet_id": 761
+    },
+    "n04081281": {
+        "seg_id": 756,
+        "object_name": "restaurant, eating house, eating place, eatery",
+        "imagenet_id": 762
+    },
+    "n04086273": {
+        "seg_id": 757,
+        "object_name": "revolver, six-gun, six-shooter",
+        "imagenet_id": 763
+    },
+    "n04090263": {
+        "seg_id": 758,
+        "object_name": "rifle",
+        "imagenet_id": 764
+    },
+    "n04099969": {
+        "seg_id": 759,
+        "object_name": "rocking chair, rocker",
+        "imagenet_id": 765
+    },
+    "n04111531": {
+        "seg_id": 760,
+        "object_name": "rotisserie",
+        "imagenet_id": 766
+    },
+    "n04116512": {
+        "seg_id": 761,
+        "object_name": "rubber eraser, rubber, pencil eraser",
+        "imagenet_id": 767
+    },
+    "n04118538": {
+        "seg_id": 762,
+        "object_name": "rugby ball",
+        "imagenet_id": 768
+    },
+    "n04118776": {
+        "seg_id": 763,
+        "object_name": "rule, ruler",
+        "imagenet_id": 769
+    },
+    "n04120489": {
+        "seg_id": 764,
+        "object_name": "running shoe",
+        "imagenet_id": 770
+    },
+    "n04125021": {
+        "seg_id": 765,
+        "object_name": "safe",
+        "imagenet_id": 771
+    },
+    "n04127249": {
+        "seg_id": 766,
+        "object_name": "safety pin",
+        "imagenet_id": 772
+    },
+    "n04131690": {
+        "seg_id": 767,
+        "object_name": "saltshaker, salt shaker",
+        "imagenet_id": 773
+    },
+    "n04133789": {
+        "seg_id": 768,
+        "object_name": "sandal",
+        "imagenet_id": 774
+    },
+    "n04136333": {
+        "seg_id": 769,
+        "object_name": "sarong",
+        "imagenet_id": 775
+    },
+    "n04141076": {
+        "seg_id": 770,
+        "object_name": "sax, saxophone",
+        "imagenet_id": 776
+    },
+    "n04141327": {
+        "seg_id": 771,
+        "object_name": "scabbard",
+        "imagenet_id": 777
+    },
+    "n04141975": {
+        "seg_id": 772,
+        "object_name": "scale, weighing machine",
+        "imagenet_id": 778
+    },
+    "n04146614": {
+        "seg_id": 773,
+        "object_name": "school bus",
+        "imagenet_id": 779
+    },
+    "n04147183": {
+        "seg_id": 774,
+        "object_name": "schooner",
+        "imagenet_id": 780
+    },
+    "n04149813": {
+        "seg_id": 775,
+        "object_name": "scoreboard",
+        "imagenet_id": 781
+    },
+    "n04152593": {
+        "seg_id": 776,
+        "object_name": "screen, crt screen",
+        "imagenet_id": 782
+    },
+    "n04153751": {
+        "seg_id": 777,
+        "object_name": "screw",
+        "imagenet_id": 783
+    },
+    "n04154565": {
+        "seg_id": 778,
+        "object_name": "screwdriver",
+        "imagenet_id": 784
+    },
+    "n04162706": {
+        "seg_id": 779,
+        "object_name": "seat belt, seatbelt",
+        "imagenet_id": 785
+    },
+    "n04179913": {
+        "seg_id": 780,
+        "object_name": "sewing machine",
+        "imagenet_id": 786
+    },
+    "n04192698": {
+        "seg_id": 781,
+        "object_name": "shield, buckler",
+        "imagenet_id": 787
+    },
+    "n04200800": {
+        "seg_id": 782,
+        "object_name": "shoe shop, shoe-shop, shoe store",
+        "imagenet_id": 788
+    },
+    "n04201297": {
+        "seg_id": 783,
+        "object_name": "shoji",
+        "imagenet_id": 789
+    },
+    "n04204238": {
+        "seg_id": 784,
+        "object_name": "shopping basket",
+        "imagenet_id": 790
+    },
+    "n04204347": {
+        "seg_id": 785,
+        "object_name": "shopping cart",
+        "imagenet_id": 791
+    },
+    "n04208210": {
+        "seg_id": 786,
+        "object_name": "shovel",
+        "imagenet_id": 792
+    },
+    "n04209133": {
+        "seg_id": 787,
+        "object_name": "shower cap",
+        "imagenet_id": 793
+    },
+    "n04209239": {
+        "seg_id": 788,
+        "object_name": "shower curtain",
+        "imagenet_id": 794
+    },
+    "n04228054": {
+        "seg_id": 789,
+        "object_name": "ski",
+        "imagenet_id": 795
+    },
+    "n04229816": {
+        "seg_id": 790,
+        "object_name": "ski mask",
+        "imagenet_id": 796
+    },
+    "n04235860": {
+        "seg_id": 791,
+        "object_name": "sleeping bag",
+        "imagenet_id": 797
+    },
+    "n04238763": {
+        "seg_id": 792,
+        "object_name": "slide rule, slipstick",
+        "imagenet_id": 798
+    },
+    "n04239074": {
+        "seg_id": 793,
+        "object_name": "sliding door",
+        "imagenet_id": 799
+    },
+    "n04243546": {
+        "seg_id": 794,
+        "object_name": "slot, one-armed bandit",
+        "imagenet_id": 800
+    },
+    "n04251144": {
+        "seg_id": 795,
+        "object_name": "snorkel",
+        "imagenet_id": 801
+    },
+    "n04252077": {
+        "seg_id": 796,
+        "object_name": "snowmobile",
+        "imagenet_id": 802
+    },
+    "n04252225": {
+        "seg_id": 797,
+        "object_name": "snowplow, snowplough",
+        "imagenet_id": 803
+    },
+    "n04254120": {
+        "seg_id": 798,
+        "object_name": "soap dispenser",
+        "imagenet_id": 804
+    },
+    "n04254680": {
+        "seg_id": 799,
+        "object_name": "soccer ball",
+        "imagenet_id": 805
+    },
+    "n04254777": {
+        "seg_id": 800,
+        "object_name": "sock",
+        "imagenet_id": 806
+    },
+    "n04258138": {
+        "seg_id": 801,
+        "object_name": "solar dish, solar collector, solar furnace",
+        "imagenet_id": 807
+    },
+    "n04259630": {
+        "seg_id": 802,
+        "object_name": "sombrero",
+        "imagenet_id": 808
+    },
+    "n04263257": {
+        "seg_id": 803,
+        "object_name": "soup bowl",
+        "imagenet_id": 809
+    },
+    "n04264628": {
+        "seg_id": 804,
+        "object_name": "space bar",
+        "imagenet_id": 810
+    },
+    "n04265275": {
+        "seg_id": 805,
+        "object_name": "space heater",
+        "imagenet_id": 811
+    },
+    "n04266014": {
+        "seg_id": 806,
+        "object_name": "space shuttle",
+        "imagenet_id": 812
+    },
+    "n04270147": {
+        "seg_id": 807,
+        "object_name": "spatula",
+        "imagenet_id": 813
+    },
+    "n04273569": {
+        "seg_id": 808,
+        "object_name": "speedboat",
+        "imagenet_id": 814
+    },
+    "n04275548": {
+        "seg_id": 809,
+        "object_name": "spider web, spider's web",
+        "imagenet_id": 815
+    },
+    "n04277352": {
+        "seg_id": 810,
+        "object_name": "spindle",
+        "imagenet_id": 816
+    },
+    "n04285008": {
+        "seg_id": 811,
+        "object_name": "sports car, sport car",
+        "imagenet_id": 817
+    },
+    "n04286575": {
+        "seg_id": 812,
+        "object_name": "spotlight, spot",
+        "imagenet_id": 818
+    },
+    "n04296562": {
+        "seg_id": 813,
+        "object_name": "stage",
+        "imagenet_id": 819
+    },
+    "n04310018": {
+        "seg_id": 814,
+        "object_name": "steam locomotive",
+        "imagenet_id": 820
+    },
+    "n04311004": {
+        "seg_id": 815,
+        "object_name": "steel arch bridge",
+        "imagenet_id": 821
+    },
+    "n04311174": {
+        "seg_id": 816,
+        "object_name": "steel drum",
+        "imagenet_id": 822
+    },
+    "n04317175": {
+        "seg_id": 817,
+        "object_name": "stethoscope",
+        "imagenet_id": 823
+    },
+    "n04325704": {
+        "seg_id": 818,
+        "object_name": "stole",
+        "imagenet_id": 824
+    },
+    "n04326547": {
+        "seg_id": 819,
+        "object_name": "stone wall",
+        "imagenet_id": 825
+    },
+    "n04328186": {
+        "seg_id": 820,
+        "object_name": "stopwatch, stop watch",
+        "imagenet_id": 826
+    },
+    "n04330267": {
+        "seg_id": 821,
+        "object_name": "stove, kitchen stove, range, kitchen range, cooking stove",
+        "imagenet_id": 827
+    },
+    "n04332243": {
+        "seg_id": 822,
+        "object_name": "strainer",
+        "imagenet_id": 828
+    },
+    "n04335435": {
+        "seg_id": 823,
+        "object_name": "streetcar, tram, tramcar, trolley, trolley car",
+        "imagenet_id": 829
+    },
+    "n04336792": {
+        "seg_id": 824,
+        "object_name": "stretcher",
+        "imagenet_id": 830
+    },
+    "n04344873": {
+        "seg_id": 825,
+        "object_name": "studio couch, day bed",
+        "imagenet_id": 831
+    },
+    "n04346328": {
+        "seg_id": 826,
+        "object_name": "stupa, tope",
+        "imagenet_id": 832
+    },
+    "n04347754": {
+        "seg_id": 827,
+        "object_name": "submarine, pigboat, sub, u-boat",
+        "imagenet_id": 833
+    },
+    "n04350905": {
+        "seg_id": 828,
+        "object_name": "suit, suit of clothes",
+        "imagenet_id": 834
+    },
+    "n04355338": {
+        "seg_id": 829,
+        "object_name": "sundial",
+        "imagenet_id": 835
+    },
+    "n04355933": {
+        "seg_id": 830,
+        "object_name": "sunglass",
+        "imagenet_id": 836
+    },
+    "n04356056": {
+        "seg_id": 831,
+        "object_name": "sunglasses, dark glasses, shades",
+        "imagenet_id": 837
+    },
+    "n04357314": {
+        "seg_id": 832,
+        "object_name": "sunscreen, sunblock, sun blocker",
+        "imagenet_id": 838
+    },
+    "n04366367": {
+        "seg_id": 833,
+        "object_name": "suspension bridge",
+        "imagenet_id": 839
+    },
+    "n04367480": {
+        "seg_id": 834,
+        "object_name": "swab, swob, mop",
+        "imagenet_id": 840
+    },
+    "n04370456": {
+        "seg_id": 835,
+        "object_name": "sweatshirt",
+        "imagenet_id": 841
+    },
+    "n04371430": {
+        "seg_id": 836,
+        "object_name": "swimming trunks, bathing trunks",
+        "imagenet_id": 842
+    },
+    "n04372370": {
+        "seg_id": 837,
+        "object_name": "switch, electric switch, electrical switch",
+        "imagenet_id": 844
+    },
+    "n04376876": {
+        "seg_id": 838,
+        "object_name": "syringe",
+        "imagenet_id": 845
+    },
+    "n04380533": {
+        "seg_id": 839,
+        "object_name": "lamp",
+        "imagenet_id": 846
+    },
+    "n04389033": {
+        "seg_id": 840,
+        "object_name": "tank, army tank, armored combat vehicle, armoured combat vehicle",
+        "imagenet_id": 847
+    },
+    "n04392985": {
+        "seg_id": 841,
+        "object_name": "tape player",
+        "imagenet_id": 848
+    },
+    "n04398044": {
+        "seg_id": 842,
+        "object_name": "teapot",
+        "imagenet_id": 849
+    },
+    "n04399382": {
+        "seg_id": 843,
+        "object_name": "teddy, teddy bear",
+        "imagenet_id": 850
+    },
+    "n04404412": {
+        "seg_id": 844,
+        "object_name": "television, television system",
+        "imagenet_id": 851
+    },
+    "n04409515": {
+        "seg_id": 845,
+        "object_name": "tennis ball",
+        "imagenet_id": 852
+    },
+    "n04417672": {
+        "seg_id": 846,
+        "object_name": "thatch, thatched roof",
+        "imagenet_id": 853
+    },
+    "n04418357": {
+        "seg_id": 847,
+        "object_name": "theater curtain, theatre curtain",
+        "imagenet_id": 854
+    },
+    "n04423845": {
+        "seg_id": 848,
+        "object_name": "thimble",
+        "imagenet_id": 855
+    },
+    "n04428191": {
+        "seg_id": 849,
+        "object_name": "thresher, thrasher, threshing machine",
+        "imagenet_id": 856
+    },
+    "n04429376": {
+        "seg_id": 850,
+        "object_name": "throne",
+        "imagenet_id": 857
+    },
+    "n04435653": {
+        "seg_id": 851,
+        "object_name": "tile roof",
+        "imagenet_id": 858
+    },
+    "n04442312": {
+        "seg_id": 852,
+        "object_name": "toaster",
+        "imagenet_id": 859
+    },
+    "n04443257": {
+        "seg_id": 853,
+        "object_name": "tobacco shop, tobacconist shop, tobacconist",
+        "imagenet_id": 860
+    },
+    "n04447861": {
+        "seg_id": 854,
+        "object_name": "toilet seat",
+        "imagenet_id": 861
+    },
+    "n04456115": {
+        "seg_id": 855,
+        "object_name": "torch",
+        "imagenet_id": 862
+    },
+    "n04458633": {
+        "seg_id": 856,
+        "object_name": "totem pole",
+        "imagenet_id": 863
+    },
+    "n04461696": {
+        "seg_id": 857,
+        "object_name": "tow truck, tow car, wrecker",
+        "imagenet_id": 864
+    },
+    "n04462240": {
+        "seg_id": 858,
+        "object_name": "toyshop",
+        "imagenet_id": 865
+    },
+    "n04465501": {
+        "seg_id": 859,
+        "object_name": "tractor",
+        "imagenet_id": 866
+    },
+    "n04467665": {
+        "seg_id": 860,
+        "object_name": "trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",
+        "imagenet_id": 867
+    },
+    "n04476259": {
+        "seg_id": 861,
+        "object_name": "tray",
+        "imagenet_id": 868
+    },
+    "n04479046": {
+        "seg_id": 862,
+        "object_name": "trench coat",
+        "imagenet_id": 869
+    },
+    "n04482393": {
+        "seg_id": 863,
+        "object_name": "tricycle, trike, velocipede",
+        "imagenet_id": 870
+    },
+    "n04483307": {
+        "seg_id": 864,
+        "object_name": "trimaran",
+        "imagenet_id": 871
+    },
+    "n04485082": {
+        "seg_id": 865,
+        "object_name": "tripod",
+        "imagenet_id": 872
+    },
+    "n04486054": {
+        "seg_id": 866,
+        "object_name": "triumphal arch",
+        "imagenet_id": 873
+    },
+    "n04487081": {
+        "seg_id": 867,
+        "object_name": "trolleybus, trolley coach, trackless trolley",
+        "imagenet_id": 874
+    },
+    "n04493381": {
+        "seg_id": 868,
+        "object_name": "tub, vat",
+        "imagenet_id": 876
+    },
+    "n04501370": {
+        "seg_id": 869,
+        "object_name": "turnstile",
+        "imagenet_id": 877
+    },
+    "n04505470": {
+        "seg_id": 870,
+        "object_name": "typewriter keyboard",
+        "imagenet_id": 878
+    },
+    "n04507155": {
+        "seg_id": 871,
+        "object_name": "umbrella",
+        "imagenet_id": 879
+    },
+    "n04509417": {
+        "seg_id": 872,
+        "object_name": "unicycle, monocycle",
+        "imagenet_id": 880
+    },
+    "n04515003": {
+        "seg_id": 873,
+        "object_name": "upright, upright piano",
+        "imagenet_id": 881
+    },
+    "n04517823": {
+        "seg_id": 874,
+        "object_name": "vacuum, vacuum cleaner",
+        "imagenet_id": 882
+    },
+    "n04522168": {
+        "seg_id": 875,
+        "object_name": "vase",
+        "imagenet_id": 883
+    },
+    "n04523525": {
+        "seg_id": 876,
+        "object_name": "vault",
+        "imagenet_id": 884
+    },
+    "n04525038": {
+        "seg_id": 877,
+        "object_name": "velvet",
+        "imagenet_id": 885
+    },
+    "n04525305": {
+        "seg_id": 878,
+        "object_name": "vending machine",
+        "imagenet_id": 886
+    },
+    "n04532106": {
+        "seg_id": 879,
+        "object_name": "vestment",
+        "imagenet_id": 887
+    },
+    "n04532670": {
+        "seg_id": 880,
+        "object_name": "viaduct",
+        "imagenet_id": 888
+    },
+    "n04536866": {
+        "seg_id": 881,
+        "object_name": "violin, fiddle",
+        "imagenet_id": 889
+    },
+    "n04540053": {
+        "seg_id": 882,
+        "object_name": "volleyball, volleyball game",
+        "imagenet_id": 890
+    },
+    "n04542943": {
+        "seg_id": 883,
+        "object_name": "waffle iron",
+        "imagenet_id": 891
+    },
+    "n04548280": {
+        "seg_id": 884,
+        "object_name": "wall clock",
+        "imagenet_id": 892
+    },
+    "n04548362": {
+        "seg_id": 885,
+        "object_name": "wallet, billfold, notecase, pocketbook",
+        "imagenet_id": 893
+    },
+    "n04550184": {
+        "seg_id": 886,
+        "object_name": "wardrobe, closet, press",
+        "imagenet_id": 894
+    },
+    "n04552348": {
+        "seg_id": 887,
+        "object_name": "warplane, military plane",
+        "imagenet_id": 895
+    },
+    "n04553703": {
+        "seg_id": 888,
+        "object_name": "washbasin, handbasin, washbowl, lavabo, wash-hand basin",
+        "imagenet_id": 896
+    },
+    "n04554684": {
+        "seg_id": 889,
+        "object_name": "washer, automatic washer, washing machine",
+        "imagenet_id": 897
+    },
+    "n04557648": {
+        "seg_id": 890,
+        "object_name": "water bottle",
+        "imagenet_id": 898
+    },
+    "n04560804": {
+        "seg_id": 891,
+        "object_name": "water jug",
+        "imagenet_id": 899
+    },
+    "n04562935": {
+        "seg_id": 892,
+        "object_name": "water tower",
+        "imagenet_id": 900
+    },
+    "n04579145": {
+        "seg_id": 893,
+        "object_name": "whiskey jug",
+        "imagenet_id": 901
+    },
+    "n04579432": {
+        "seg_id": 894,
+        "object_name": "whistle",
+        "imagenet_id": 902
+    },
+    "n04584207": {
+        "seg_id": 895,
+        "object_name": "wig",
+        "imagenet_id": 903
+    },
+    "n04589890": {
+        "seg_id": 896,
+        "object_name": "window screen",
+        "imagenet_id": 904
+    },
+    "n04590129": {
+        "seg_id": 897,
+        "object_name": "window shade",
+        "imagenet_id": 905
+    },
+    "n04591157": {
+        "seg_id": 898,
+        "object_name": "windsor tie",
+        "imagenet_id": 906
+    },
+    "n04591713": {
+        "seg_id": 899,
+        "object_name": "wine bottle",
+        "imagenet_id": 907
+    },
+    "n04592741": {
+        "seg_id": 900,
+        "object_name": "wing",
+        "imagenet_id": 908
+    },
+    "n04596742": {
+        "seg_id": 901,
+        "object_name": "wok",
+        "imagenet_id": 909
+    },
+    "n04597913": {
+        "seg_id": 902,
+        "object_name": "wooden spoon",
+        "imagenet_id": 910
+    },
+    "n04599235": {
+        "seg_id": 903,
+        "object_name": "wool, woolen, woollen",
+        "imagenet_id": 911
+    },
+    "n04604644": {
+        "seg_id": 904,
+        "object_name": "worm fence, snake fence, snake-rail fence, virginia fence",
+        "imagenet_id": 912
+    },
+    "n04606251": {
+        "seg_id": 905,
+        "object_name": "wreck",
+        "imagenet_id": 913
+    },
+    "n04612504": {
+        "seg_id": 906,
+        "object_name": "yawl",
+        "imagenet_id": 914
+    },
+    "n04613696": {
+        "seg_id": 907,
+        "object_name": "yurt",
+        "imagenet_id": 915
+    },
+    "n06359193": {
+        "seg_id": 908,
+        "object_name": "web site, website, internet site, site",
+        "imagenet_id": 916
+    },
+    "n06596364": {
+        "seg_id": 909,
+        "object_name": "comic book",
+        "imagenet_id": 917
+    },
+    "n06785654": {
+        "seg_id": 910,
+        "object_name": "crossword puzzle, crossword",
+        "imagenet_id": 918
+    },
+    "n06794110": {
+        "seg_id": 911,
+        "object_name": "street sign",
+        "imagenet_id": 919
+    },
+    "n06874185": {
+        "seg_id": 912,
+        "object_name": "traffic light, traffic signal, stoplight",
+        "imagenet_id": 920
+    },
+    "n07248320": {
+        "seg_id": 913,
+        "object_name": "book jacket, dust cover, dust jacket, dust wrapper",
+        "imagenet_id": 921
+    },
+    "n07565083": {
+        "seg_id": 914,
+        "object_name": "menu",
+        "imagenet_id": 922
+    },
+    "n07579787": {
+        "seg_id": 915,
+        "object_name": "plate",
+        "imagenet_id": 923
+    },
+    "n07583066": {
+        "seg_id": 916,
+        "object_name": "guacamole",
+        "imagenet_id": 924
+    },
+    "n07584110": {
+        "seg_id": 917,
+        "object_name": "consomme",
+        "imagenet_id": 925
+    },
+    "n07590611": {
+        "seg_id": 918,
+        "object_name": "hot pot, hotpot",
+        "imagenet_id": 926
+    },
+    "n07613480": {
+        "seg_id": 919,
+        "object_name": "trifle",
+        "imagenet_id": 927
+    },
+    "n07614500": {
+        "seg_id": 920,
+        "object_name": "ice cream, icecream",
+        "imagenet_id": 928
+    },
+    "n07615774": {
+        "seg_id": 921,
+        "object_name": "ice lolly, lolly, lollipop, popsicle",
+        "imagenet_id": 929
+    },
+    "n07684084": {
+        "seg_id": 922,
+        "object_name": "french loaf",
+        "imagenet_id": 930
+    },
+    "n07693725": {
+        "seg_id": 923,
+        "object_name": "bagel, beigel",
+        "imagenet_id": 931
+    },
+    "n07695742": {
+        "seg_id": 924,
+        "object_name": "pretzel",
+        "imagenet_id": 932
+    },
+    "n07697313": {
+        "seg_id": 925,
+        "object_name": "cheeseburger",
+        "imagenet_id": 933
+    },
+    "n07697537": {
+        "seg_id": 926,
+        "object_name": "hotdog, hot dog, red hot",
+        "imagenet_id": 934
+    },
+    "n07711569": {
+        "seg_id": 927,
+        "object_name": "mashed potato",
+        "imagenet_id": 935
+    },
+    "n07714571": {
+        "seg_id": 928,
+        "object_name": "head cabbage",
+        "imagenet_id": 936
+    },
+    "n07714990": {
+        "seg_id": 929,
+        "object_name": "broccoli",
+        "imagenet_id": 937
+    },
+    "n07715103": {
+        "seg_id": 930,
+        "object_name": "cauliflower",
+        "imagenet_id": 938
+    },
+    "n07716358": {
+        "seg_id": 931,
+        "object_name": "zucchini, courgette",
+        "imagenet_id": 939
+    },
+    "n07716906": {
+        "seg_id": 932,
+        "object_name": "spaghetti squash",
+        "imagenet_id": 940
+    },
+    "n07717410": {
+        "seg_id": 933,
+        "object_name": "acorn squash",
+        "imagenet_id": 941
+    },
+    "n07717556": {
+        "seg_id": 934,
+        "object_name": "butternut squash",
+        "imagenet_id": 942
+    },
+    "n07718472": {
+        "seg_id": 935,
+        "object_name": "cucumber, cuke",
+        "imagenet_id": 943
+    },
+    "n07718747": {
+        "seg_id": 936,
+        "object_name": "artichoke, globe artichoke",
+        "imagenet_id": 944
+    },
+    "n07720875": {
+        "seg_id": 937,
+        "object_name": "bell pepper",
+        "imagenet_id": 945
+    },
+    "n07730033": {
+        "seg_id": 938,
+        "object_name": "cardoon",
+        "imagenet_id": 946
+    },
+    "n07734744": {
+        "seg_id": 939,
+        "object_name": "mushroom",
+        "imagenet_id": 947
+    },
+    "n07742313": {
+        "seg_id": 940,
+        "object_name": "granny smith",
+        "imagenet_id": 948
+    },
+    "n07745940": {
+        "seg_id": 941,
+        "object_name": "strawberry",
+        "imagenet_id": 949
+    },
+    "n07747607": {
+        "seg_id": 942,
+        "object_name": "orange",
+        "imagenet_id": 950
+    },
+    "n07749582": {
+        "seg_id": 943,
+        "object_name": "lemon",
+        "imagenet_id": 951
+    },
+    "n07753113": {
+        "seg_id": 944,
+        "object_name": "fig",
+        "imagenet_id": 952
+    },
+    "n07753275": {
+        "seg_id": 945,
+        "object_name": "pineapple, ananas",
+        "imagenet_id": 953
+    },
+    "n07753592": {
+        "seg_id": 946,
+        "object_name": "banana",
+        "imagenet_id": 954
+    },
+    "n07754684": {
+        "seg_id": 947,
+        "object_name": "jackfruit, jak, jack",
+        "imagenet_id": 955
+    },
+    "n07760859": {
+        "seg_id": 948,
+        "object_name": "custard apple",
+        "imagenet_id": 956
+    },
+    "n07768694": {
+        "seg_id": 949,
+        "object_name": "pomegranate",
+        "imagenet_id": 957
+    },
+    "n07802026": {
+        "seg_id": 950,
+        "object_name": "hay",
+        "imagenet_id": 958
+    },
+    "n07831146": {
+        "seg_id": 951,
+        "object_name": "carbonara",
+        "imagenet_id": 959
+    },
+    "n07836838": {
+        "seg_id": 952,
+        "object_name": "chocolate sauce, chocolate syrup",
+        "imagenet_id": 960
+    },
+    "n07860988": {
+        "seg_id": 953,
+        "object_name": "dough",
+        "imagenet_id": 961
+    },
+    "n07871810": {
+        "seg_id": 954,
+        "object_name": "meat loaf, meatloaf",
+        "imagenet_id": 962
+    },
+    "n07873807": {
+        "seg_id": 955,
+        "object_name": "pizza, pizza pie",
+        "imagenet_id": 963
+    },
+    "n07875152": {
+        "seg_id": 956,
+        "object_name": "potpie",
+        "imagenet_id": 964
+    },
+    "n07880968": {
+        "seg_id": 957,
+        "object_name": "burrito",
+        "imagenet_id": 965
+    },
+    "n07892512": {
+        "seg_id": 958,
+        "object_name": "red wine",
+        "imagenet_id": 966
+    },
+    "n07920052": {
+        "seg_id": 959,
+        "object_name": "espresso",
+        "imagenet_id": 967
+    },
+    "n07930864": {
+        "seg_id": 960,
+        "object_name": "cup",
+        "imagenet_id": 968
+    },
+    "n07932039": {
+        "seg_id": 961,
+        "object_name": "eggnog",
+        "imagenet_id": 969
+    },
+    "n09193705": {
+        "seg_id": 962,
+        "object_name": "alp",
+        "imagenet_id": 970
+    },
+    "n09229709": {
+        "seg_id": 963,
+        "object_name": "bubble",
+        "imagenet_id": 971
+    },
+    "n09246464": {
+        "seg_id": 964,
+        "object_name": "cliff, drop, drop-off",
+        "imagenet_id": 972
+    },
+    "n09256479": {
+        "seg_id": 965,
+        "object_name": "coral reef",
+        "imagenet_id": 973
+    },
+    "n09288635": {
+        "seg_id": 966,
+        "object_name": "geyser",
+        "imagenet_id": 974
+    },
+    "n09332890": {
+        "seg_id": 967,
+        "object_name": "lakeside, lakeshore",
+        "imagenet_id": 975
+    },
+    "n09399592": {
+        "seg_id": 968,
+        "object_name": "promontory, headland, head, foreland",
+        "imagenet_id": 976
+    },
+    "n09421951": {
+        "seg_id": 969,
+        "object_name": "sandbar, sand bar",
+        "imagenet_id": 977
+    },
+    "n09428293": {
+        "seg_id": 970,
+        "object_name": "seashore, coast, seacoast, sea-coast",
+        "imagenet_id": 978
+    },
+    "n09468604": {
+        "seg_id": 971,
+        "object_name": "valley, vale",
+        "imagenet_id": 979
+    },
+    "n09472597": {
+        "seg_id": 972,
+        "object_name": "mountain, mount",
+        "imagenet_id": 980
+    },
+    "n09835506": {
+        "seg_id": 973,
+        "object_name": "ballplayer, baseball player",
+        "imagenet_id": 981
+    },
+    "n10148035": {
+        "seg_id": 974,
+        "object_name": "groom, bridegroom",
+        "imagenet_id": 982
+    },
+    "n10565667": {
+        "seg_id": 975,
+        "object_name": "scuba diver",
+        "imagenet_id": 983
+    },
+    "n11879895": {
+        "seg_id": 976,
+        "object_name": "rapeseed",
+        "imagenet_id": 984
+    },
+    "n11939491": {
+        "seg_id": 977,
+        "object_name": "daisy",
+        "imagenet_id": 985
+    },
+    "n12057211": {
+        "seg_id": 978,
+        "object_name": "yellow lady's slipper, yellow lady-slipper, cypripedium calceolus, cypripedium parviflorum",
+        "imagenet_id": 986
+    },
+    "n12144580": {
+        "seg_id": 979,
+        "object_name": "corn",
+        "imagenet_id": 987
+    },
+    "n12267677": {
+        "seg_id": 980,
+        "object_name": "acorn",
+        "imagenet_id": 988
+    },
+    "n12620546": {
+        "seg_id": 981,
+        "object_name": "hip, rose hip, rosehip",
+        "imagenet_id": 989
+    },
+    "n12768682": {
+        "seg_id": 982,
+        "object_name": "buckeye, horse chestnut, conker",
+        "imagenet_id": 990
+    },
+    "n12985857": {
+        "seg_id": 983,
+        "object_name": "coral fungus",
+        "imagenet_id": 991
+    },
+    "n12998815": {
+        "seg_id": 984,
+        "object_name": "agaric",
+        "imagenet_id": 992
+    },
+    "n13037406": {
+        "seg_id": 985,
+        "object_name": "gyromitra",
+        "imagenet_id": 993
+    },
+    "n13040303": {
+        "seg_id": 986,
+        "object_name": "stinkhorn, carrion fungus",
+        "imagenet_id": 994
+    },
+    "n13044778": {
+        "seg_id": 987,
+        "object_name": "earthstar",
+        "imagenet_id": 995
+    },
+    "n13052670": {
+        "seg_id": 988,
+        "object_name": "hen-of-the-woods, hen of the woods, polyporus frondosus, grifola frondosa",
+        "imagenet_id": 996
+    },
+    "n13054560": {
+        "seg_id": 989,
+        "object_name": "bolete",
+        "imagenet_id": 997
+    },
+    "n13133613": {
+        "seg_id": 990,
+        "object_name": "ear",
+        "imagenet_id": 998
+    },
+    "n15075141": {
+        "seg_id": 991,
+        "object_name": "toilet tissue, toilet paper, bathroom tissue",
+        "imagenet_id": 999
+    }
+}

@@ -32,6 +32,8 @@ We recently release MetFaces40 annotation we use as out-of-domain testing. Pleas
 * gcc v7.3.0
 * Pytorch 1.8.0
 
+## Pretrained BigGAN Weights
+Our annotation and model are based on BigGAN-512, please download the model from https://tfhub.dev/deepmind/biggan-512/2, store it in ```./pretrain``` folder. Since the original model is trained using TensorFlow, you need to convert the model weights back to Pytorch, following the instructions here https://github.com/ajbrock/BigGAN-PyTorch/tree/master/TFHub. Notice the model is Licensed under Apache-2.0 issued by DeepMind.
 ## Citation 
 
 Please cite the following paper if you used the code in this repository.
