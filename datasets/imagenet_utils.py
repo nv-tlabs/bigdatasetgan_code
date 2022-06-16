@@ -8,11 +8,11 @@
 
 import json
 
-with open("imagenet2synset.json", 'r') as f:
-    imagenet_to_synset = json.load(f)
+# with open("./imagenet2synset.json", 'r') as f:
+#     imagenet_to_synset = json.load(f)
 
-with open("imagenetclass992.json", 'r') as f:
-    synset_to_imagenet = json.load(f)
+# with open("./imagenetclass992.json", 'r') as f:
+#     synset_to_imagenet = json.load(f)
 
 pascal_to_synset = {
 	"bird": ["cock (n01514668)", "hen (n01514859)", "water ouzel (n01601694)", "house finch (n01532829)", "brambling (n01530575)", "junco (n01534433)", "goldfinch (n01531178)", "indigo bunting (n01537544)", "chickadee (n01592084)", "robin (n01558993)", "bulbul (n01560419)", "magpie (n01582220)", "jay (n01580077)", "black swan (n01860187)", "crane (n02012849)", "spoonbill (n02006656)", "flamingo (n02007558)", "bustard (n02018795)", "limpkin (n02013706)", "bittern (n02011460)", "little blue heron (n02009229)", "American egret (n02009912)", "oystercatcher (n02037110)", "dowitcher (n02033041)", "red-backed sandpiper (n02027492)", "redshank (n02028035)", "ruddy turnstone (n02025239)", "black stork (n02002724)", "white stork (n02002556)", "American coot (n02018207)", "king penguin (n02056570)", "albatross (n02058221)", "pelican (n02051845)", "European gallinule (n02017213)", "goose (n01855672)", "drake (n01847000)", "red-breasted merganser (n01855032)", "coucal (n01824575)", "hummingbird (n01833805)", "ostrich (n01518878)", "ruffed grouse (n01797886)", "black grouse (n01795545)", "prairie chicken (n01798484)", "ptarmigan (n01796340)", "quail (n01806567)", "partridge (n01807496)", "peacock (n01806143)", "bee eater (n01828970)", "hornbill (n01829413)", "vulture (n01616318)", "great grey owl (n01622779)", "kite (n01608432)", "bald eagle (n01614925)", "jacamar (n01843065)", "toucan (n01843383)", "macaw (n01818515)", "African grey (n01817953)", "lorikeet (n01820546)", "sulphur-crested cockatoo (n01819313)"],
