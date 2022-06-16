@@ -241,11 +241,3 @@ if __name__ == '__main__':
 
     biggan_ckpt = './pretrain/biggan-512.pth'
     model = BigdatasetGANModel(512, 1, biggan_ckpt).cuda()
-
-    import pdb; pdb.set_trace()
-
-# from biggan_v1 import truncated_z_sample
-# z = torch.tensor(truncated_z_sample(1, model.biggan_model.dim_z, truncation=1.0), dtype=torch.float).cuda()
-# y = torch.tensor([1], dtype=torch.long).cuda()
-# x = model(z,y)
-# import pdb; pdb.set_trace()
