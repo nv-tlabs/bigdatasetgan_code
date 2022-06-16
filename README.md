@@ -16,6 +16,54 @@ This is the official code for:
     <img src="https://nv-tlabs.github.io/big-datasetgan/resources/dataset_all.png" width="100%">
 </p>
 
+## Requirements
+* Python 3.7 
+* Cuda v11.0+
+* gcc v7.3.0
+* Pytorch 1.9.0+
+
+## Pretrained BigGAN weights
+Our annotation and model are based on BigGAN-512, please download the model from https://tfhub.dev/deepmind/biggan-512/2, store it in `./pretrain` folder. Since the original model is trained using TensorFlow, you need to convert the model weights back to Pytorch, following the instructions here https://github.com/ajbrock/BigGAN-PyTorch/tree/master/TFHub. Notice the model is Licensed under Apache-2.0 issued by DeepMind.
+
+## Dataset preparation
+We only release our annotations on sampled [BigGAN](https://github.com/ajbrock/BigGAN-PyTorch/blob/master/LICENSE) images and images from [ImageNet](https://www.image-net.org/index.php) along with its latents used to get the sampled images. For their licenses, please refer to their websites. Notice our dataset release is under the [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license by NVIDIA Corporation. Please see [License](#license) session for details.
+
+1. Download ImageNet from [here](https://www.image-net.org/index.php).
+2. Download our annotations `annotations.zip` and latent codes `latents.zip` from [gdrive](). Unzip them into data folder under `./data/`.
+3. Process images from ImageNet into our dataset format. Run the following script
+```
+python prepare_imagenet_images.py --imagenet_dir [path to imagenet dir] --dataset_dir ./data/
+```
+4. Prepare images generated from BigGAN. Please download the pretrained weights following [this](#pretrained-biggan-weights) session. And run
+```
+python prepare_biggan_images.py --biggan_ckpt ./pretrain/biggan-512.pth --dataset_dir ./data/
+```
+After the processing steps, you should have data folder structure like this
+```
+data
+|
+└───annotations
+│   |
+│   └───biggan512
+│   |   │   n01440764
+│   |   │   ...
+|   └───real-random
+│       │   n01440764
+│       │   ...
+└───images
+│   |
+│   └───biggan512
+│   |   │   n01440764
+│   |   │   ...
+|   └───real-random
+│       │   n01440764
+│       │   ...
+└───latents
+│   |
+│   └───biggan512
+│   |   │   n01440764
+│   |   │   ...
+```
 ## License 
 For any code dependency related to BigGAN, the license is under the MIT License, see https://github.com/ajbrock/BigGAN-PyTorch/blob/master/LICENSE.
 
@@ -23,17 +71,6 @@ The work BigDatasetGAN code is released under Creative Commons BY-NC 4.0 license
 
 The dataset of BigDatasetGAN is released under the [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license by NVIDIA Corporation. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper** and **indicating any changes** that you've made.
 
-## Datasets
-We recently release MetFaces40 annotation we use as out-of-domain testing. Please notice this dataset is under the [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license by NVIDIA Corporation. Please see [GDrive](https://drive.google.com/drive/folders/1ibZzaWSUVoQ94OPoLNS0FrUufBeDvRP4?usp=sharing).
-
-## Requirements
-* Python 3.8 
-* Cuda v10.2 / Cudnn v7.6.5
-* gcc v7.3.0
-* Pytorch 1.8.0
-
-## Pretrained BigGAN Weights
-Our annotation and model are based on BigGAN-512, please download the model from https://tfhub.dev/deepmind/biggan-512/2, store it in ```./pretrain``` folder. Since the original model is trained using TensorFlow, you need to convert the model weights back to Pytorch, following the instructions here https://github.com/ajbrock/BigGAN-PyTorch/tree/master/TFHub. Notice the model is Licensed under Apache-2.0 issued by DeepMind.
 ## Citation 
 
 Please cite the following paper if you used the code in this repository.
