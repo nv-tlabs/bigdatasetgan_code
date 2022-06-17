@@ -6,12 +6,10 @@
 # distribution of this software and related documentation without an express
 # license agreement from NVIDIA CORPORATION is strictly prohibited.
 
-from locale import normalize
 import os
 import torch
 import argparse
 import torchvision
-import numpy as np
 
 from models import BigdatasetGANModel
 from utils import VOCColorize
