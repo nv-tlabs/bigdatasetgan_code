@@ -80,6 +80,23 @@ You can monitor the training progress in tensorboard, as well as the training pr
 By default, the training runs 5k iteration with a batch size of 4, you can adjust it for the best capacity.
 
 ## Sampling dataset
+After the training is done, we can synthesize ImageNet with pixel-wise labels.
+
+Run the following
+```
+python sample_dataset.py --ckpt [path to your pretrained BigDatasetGAN weights] \
+                         --save_dir ./dataset_viz/ \
+                         --class_idx 225, 200, [you can give it more with ImagetNet class idx] \
+                         --samples_per_class 10
+                         --z_var 0.9
+```
+
+<p align="center">
+    <img src="./viz/sample_overall.jpg" width="100%">
+</p>
+
+
+As an example, here we sample class 225 and 200 with 10 samples each.
 
 ## License 
 For any code dependency related to BigGAN, the license is under the MIT License, see https://github.com/ajbrock/BigGAN-PyTorch/blob/master/LICENSE.
