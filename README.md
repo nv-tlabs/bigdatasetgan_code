@@ -29,7 +29,7 @@ Our annotation and model are based on BigGAN-512, please download the model from
 We only release our annotations on sampled [BigGAN](https://github.com/ajbrock/BigGAN-PyTorch/blob/master/LICENSE) images and images from [ImageNet](https://www.image-net.org/index.php) along with its latents used to get the sampled images. For their licenses, please refer to their websites. Notice our dataset release is under the [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license by NVIDIA Corporation. Please see [License](#license) session for details.
 
 1. Download ImageNet from [here](https://www.image-net.org/index.php).
-2. Download our annotations `annotations.zip` and latent codes `latents.zip` from [gdrive](). Unzip them into data folder under `./data/`.
+2. Download our annotations `annotations.zip` and latent codes `latents.zip` from [gdrive](https://drive.google.com/drive/folders/1NC0VSZrVZsd1Z_IRSdadyfCfTXMAPsf1). Unzip them into data folder under `./data/`.
 3. Process images from ImageNet into our dataset format. Run the following script
 ```
 python prepare_imagenet_images.py --imagenet_dir [path to imagenet dir] --dataset_dir ./data/
