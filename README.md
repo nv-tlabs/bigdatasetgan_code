@@ -47,9 +47,7 @@ data
 │   └───biggan512
 │   |   │   n01440764
 │   |   │   ...
-|   └───real-random
-│       │   n01440764
-│       │   ...
+|   └───real-random-list.txt
 └───images
 │   |
 │   └───biggan512
